@@ -99,10 +99,11 @@ steady-hand-tool/
 
 Quantities per tool are in the [assembly guide](docs/assembly-guide.md), not repeated here.
 
-**Not in this repo:** the carriage (cage) assembly and the base. Both are still moving, and the
-base has two forms — a printed shell that is ballasted to 680 g, and a machined aluminium one.
-The [BOM](BOM.md) and the [assembly guide](docs/assembly-guide.md) describe them, and the
-[magnet polarity standard](docs/magnet-polarity.md) is what any tool head you design has to match.
+**Not in this repo yet:** the carriage (cage) assembly and the base. **Every 3D model will be
+published when the campaign funds** — that is the commitment, and it is part of what backing it
+pays for. Until then the [BOM](BOM.md) and the [assembly guide](docs/assembly-guide.md) describe
+those parts, and the [magnet polarity standard](docs/magnet-polarity.md) is what any tool head you
+design has to match.
 
 ---
 

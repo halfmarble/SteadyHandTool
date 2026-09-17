@@ -72,7 +72,8 @@ steady-hand-tool/
 ├── hardware/
 │   └── models/
 │       ├── stl/            # Printable parts and tool-head adapters
-│       │   └── 3rdParty/   # Adapters for third-party tools (PixelPump)
+│       ├── 3rdParty/       # Adapters for third-party tools (PixelPump)
+│       ├── 3mf/            # Print plates — orientation and slicer settings, not geometry
 │       └── step/           # CAD-fidelity parts (being added part by part)
 ├── docs/
 │   ├── assembly-guide.md   # Step-by-step build instructions

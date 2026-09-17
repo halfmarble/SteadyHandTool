@@ -69,26 +69,40 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 
 ```
 steady-hand-tool/
-├── .github/                # Issue templates and GitHub-specific config
-├── hardware/               # All physical design files
-│   ├── models/             # 3D models for printing
-│   │   ├── stl/            # Ready-to-print files (standard)
-│   │   │   ├── 3rdParty/   # Adapters for 3rd party tools
-│   │   ├── step/           # High-fidelity files for CAD software
-│   │   └── community/      # User-submitted tool heads
-│   ├── electronics/        # (Optional) If you ever add sensors/LEDs
-│   └── reference/          # Technical drawings or dimension sheets
-├── docs/                   # Documentation and guides
+├── hardware/
+│   └── models/
+│       ├── stl/            # Printable parts and tool-head adapters
+│       │   └── 3rdParty/   # Adapters for third-party tools (PixelPump)
+│       └── step/           # CAD-fidelity parts (being added part by part)
+├── docs/
 │   ├── assembly-guide.md   # Step-by-step build instructions
-│   ├── images/             # Photos and GIFs used in the guides
-│   └── calibration.md      # How to tune the arm for smooth movement
-├── media/                  # Marketing photos and build images
-├── .gitignore              # Tells Git which files to ignore (like temp CAD files)
+│   └── magnet-polarity.md  # The polarity standard every adapter follows
+├── media/                  # Photos used in the docs
 ├── BOM.md                  # Bill of Materials (the "Shopping List")
-├── CONTRIBUTING.md         # How others can help
 ├── LICENSE                 # CERN-OHL-S-2.0 License text
-└── README.md               # The front page of your project
+└── README.md               # This file
 ```
+
+### What is in `stl/`
+
+| Part | Notes |
+| :--- | :--- |
+| `SteadyHandTool-Pillar.stl` | Pillar |
+| `SteadyHandTool-Spacer.stl` | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
+| `SteadyHandTool-SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
+| `SteadyHandTool-Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
+| `SteadyHandTool-Aligner.stl` | Alignment jig used during assembly |
+| `SteadyHandTool-InterfaceRing.stl` | The ring that interfaces with the tool head (assembly guide, Step 11) |
+| `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | Name plate (Step 12) |
+| `SteadyHandTool-Plate_half_LOGO_marble.stl` | Logo plate (Step 12) |
+| `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | Tool heads. `InterfaceTemplate` is the blank to start your own from |
+
+Quantities per tool are in the [assembly guide](docs/assembly-guide.md), not repeated here.
+
+**Not in this repo:** the carriage (cage) assembly and the base. Both are still moving, and the
+base has two forms — a printed shell that is ballasted to 680 g, and a machined aluminium one.
+The [BOM](BOM.md) and the [assembly guide](docs/assembly-guide.md) describe them, and the
+[magnet polarity standard](docs/magnet-polarity.md) is what any tool head you design has to match.
 
 ---
 

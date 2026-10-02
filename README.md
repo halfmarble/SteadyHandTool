@@ -84,27 +84,31 @@ steady-hand-tool/
 └── README.md               # This file
 ```
 
-### What is in `stl/`
+### The parts, and which are published
 
-| Part | Notes |
-| :--- | :--- |
-| `SteadyHandTool-Pillar.stl` | Pillar |
-| `SteadyHandTool-Spacer.stl` | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
-| `SteadyHandTool-SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
-| `SteadyHandTool-Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
-| `SteadyHandTool-Aligner.stl` | Alignment jig used during assembly |
-| `SteadyHandTool-InterfaceRing.stl` | The ring that interfaces with the tool head (assembly guide, Step 11) |
-| `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | Name plate (Step 12) |
-| `SteadyHandTool-Plate_half_LOGO_marble.stl` | Logo plate (Step 12) |
-| `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | Tool heads. `InterfaceTemplate` is the blank to start your own from |
+| Part | Status | Notes |
+| :--- | :--- | :--- |
+| `SteadyHandTool-Pillar.stl` | ✅ Published | Upright strut — carries the pivot pins the arm swings on |
+| `SteadyHandTool-Spacer.stl` | ✅ Published | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
+| `SteadyHandTool-SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
+| `SteadyHandTool-Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
+| `SteadyHandTool-Aligner.stl` | ✅ Published | Alignment jig used during assembly |
+| `SteadyHandTool-InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head (assembly guide, Step 11) |
+| `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | ✅ Published | Name plate (Step 12) |
+| `SteadyHandTool-Plate_half_LOGO_marble.stl` | ✅ Published | Logo plate (Step 12) |
+| `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
+| Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
+| Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
+| Base — printed shell | ⏳ On funding | Filled with steel shot to 680 g (Step 1) |
+| Base — machined aluminium | ⏳ On funding | Solid, needs no ballast. CAD, not a printed part |
 
 Quantities per tool are in the [assembly guide](docs/assembly-guide.md), not repeated here.
 
-**Not in this repo yet:** the carriage (cage) assembly and the base. **Every 3D model will be
-published when the campaign funds** — that is the commitment, and it is part of what backing it
-pays for. Until then the [BOM](BOM.md) and the [assembly guide](docs/assembly-guide.md) describe
-those parts, and the [magnet polarity standard](docs/magnet-polarity.md) is what any tool head you
-design has to match.
+**Every 3D model will be published when the campaign funds** — that is the commitment, and it is
+part of what backing it pays for. Until then the [BOM](BOM.md) and the
+[assembly guide](docs/assembly-guide.md) describe the carriage and the base, and the
+[magnet polarity standard](docs/magnet-polarity.md) is the full specification any tool head you
+design has to match — so designing one is something you can do today, not after the campaign.
 
 ---
 

@@ -90,7 +90,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 ### Step 8: Vertical Cage (Part B)
 * **Parts:** 3x M3x16 bolts, 3x M3x20 bolts, 1x M3x10 bolt, 1x M3 nut.
 * Join the vertical cage components and attach the vertical rods.
-* **Note:** Use the single short **M3x10mm** bolt specifically for the rod interface.
+* **Note:** Use the single short **M3x10** bolt specifically for the rod interface.
 
 ### Step 9: Horizontal Stop
 * **Parts:** 2x M3x16 bolts and 2x M3 nuts.

@@ -23,8 +23,7 @@ much easier than discovering a shortfall at Step 12.
 | Fastener | Quantity | Where it goes |
 | :--- | ---: | :--- |
 | M3 x 8 | 2 | Step 12 |
-| M3 x 10 | 2 | Step 11 |
-| M3 x 16 | 6 | Steps 8, 9, 10 |
+| M3 x 16 | 8 | Steps 8, 9, 10, 11 |
 | M3 x 20 | 3 | Step 8 |
 | M3 nuts | 7 | Steps 9, 10, 11, 12 |
 | M4 x 10 | 1 | Step 8 |
@@ -107,7 +106,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * Install the stop onto the vertical rod to limit the tool's travel.
 
 ### Step 11: Interface Ring
-* **Parts:** 2x M3x10 bolts and 2x M3 nuts.
+* **Parts:** 2x M3x16 bolts and 2x M3 nuts.
 * Secure the ring that interfaces with the tool head.
 
 ### Step 12: Tool Interface

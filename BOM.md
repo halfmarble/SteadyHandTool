@@ -48,7 +48,7 @@ guide](docs/assembly-guide.md#step-1-weight-the-base).
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **6x M3x16, 3x M3x20, 2x M3x10, 2x M3x8, and 7 nuts** | Structural assembly of the arm |
+| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **8x M3x16, 3x M3x20, 2x M3x8, and 7 nuts** | Structural assembly of the arm |
 | <img src="media/hardwareM4.jpg" width="100"> | [**M4 Hardware**](https://amzn.to/3WslSXP) | Stainless steel. **18x M4x16, 1x M4x10, and 19 nuts** | Structural assembly of the arm |
 
 Buy a few spares of each size. **Neither base takes a fastener of any kind** — every one of these

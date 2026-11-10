@@ -8,7 +8,6 @@ This assembly guide is based on the [Steady Hand Tool DIY Part 1](https://www.yo
 
 ## 🛠️ Required Tools
 * **2.5mm** Hexball screwdriver
-* **3.0mm** Hexball screwdriver
 
 ---
 
@@ -21,11 +20,11 @@ much easier than discovering a shortfall at Step 12.
 
 | Fastener | Quantity | Where it goes |
 | :--- | ---: | :--- |
-| M3 x 8 | 2 | Step 12 |
+| M3 x 8 | 8 | Step 12 |
 | M3 x 10 | 1 | Step 8 |
 | M3 x 16 | 32 | Steps 4, 6, 8, 9, 10, 11 |
 | M3 x 20 | 3 | Step 8 |
-| M3 nuts | 32 | Steps 4, 6, 8, 9, 10, 11, 12 |
+| M3 nuts | 38 | Steps 4, 6, 8, 9, 10, 11, 12 |
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -106,8 +105,9 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * Secure each of the four rings that interface with the tool heads.
 
 ### Step 12: Tool Interface
-* **Parts:** 2x M3x8 bolts and 2x M3 nuts.
-* Install the final interface component that will hold your specific tool.
+* **Parts:** 2x M3x8 bolts and 2x M3 nuts for each tweezers head: 8 of each for the four heads in
+  the [print list](../Print.md). A vacuum-pen or template head takes none.
+* Fit them to each tweezers head; they clamp the tweezers in the head's slot.
 
 ### Step 13: Branding
 * Install the **Steady Hand Tool** and **halfmarble** logo plates into their designated slots.

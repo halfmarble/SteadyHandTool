@@ -23,12 +23,13 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | :---: | :--- | :--- | :--- |
 | <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://amzn.to/4jpyyZC) | 8mm Diameter x 300mm (**4 required**) | 2 horizontal rails, 1 vertical mast, 1 vertical tool rod |
 | <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
-| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (56 required, buy 60) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
+| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (95 required, buy 100) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
 | | **Base Ballast** | Round steel shot, **1.5 - 2.0 mm** (nominal 2.0 mm). Approx. **517 g** per base | Fills the printed base to **680 g ± 10 g**. The machined aluminium base needs none. **Size is not a preference** — read the note below before you buy any |
 
 **Magnet count, broken down:** 24 in the base (four tool pockets, six each), 24 in the four
-tool adapters, and 8 in the tool interface — 56 in total. Buy 60; they are small, and one
-will find the floor.
+tool adapters (six each), 40 in the four interface rings (six on the bottom face and four on the
+top of each), 4 in the vertical cage and 3 in the stopper — 95 in total. Buy 100; they are
+small, and one will find the floor.
 
 **On the ballast, before you buy any.** The shot goes into the printed base through a **⌀8 mm
 socket**, and that socket — not the chamber — is what governs. Granular flow arches when the
@@ -48,7 +49,7 @@ guide](docs/assembly-guide.md#step-1-weight-the-base).
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **32x M3x16, 3x M3x20, 1x M3x10, 2x M3x8, and 32 nuts** | Structural assembly of the arm |
+| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **32x M3x16, 3x M3x20, 1x M3x10, 8x M3x8, and 38 nuts** | Structural assembly of the arm |
 
 Buy a few spares of each size. **Neither base takes a fastener of any kind** — every one of these
 goes into the arm. The step-by-step breakdown is in the

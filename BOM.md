@@ -23,12 +23,12 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | :---: | :--- | :--- | :--- |
 | <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://amzn.to/4jpyyZC) | 8mm Diameter x 300mm (**4 required**) | 2 horizontal rails, 1 vertical mast, 1 vertical tool rod |
 | <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
-| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (95 required, buy 100) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
-| | **Base Ballast** | Round steel shot, **1.5 - 2.0 mm** (nominal 2.0 mm). Approx. **517 g** per base | Fills the printed base to **680 g ± 10 g**. The machined aluminium base needs none. **Size is not a preference** — read the note below before you buy any |
+| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (92 required, buy 100) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
+| | **Base Ballast** | Round steel shot, **1.5 - 2.0 mm** (nominal 2.0 mm). Approx. **590 g** per base | Fills the printed base to **680 g ± 10 g**. The machined aluminium base needs none. **Size is not a preference** — read the note below before you buy any |
 
 **Magnet count, broken down:** 24 in the base (four tool pockets, six each), 24 in the four
 tool adapters (six each), 40 in the four interface rings (six on the bottom face and four on the
-top of each), 4 in the vertical cage and 3 in the stopper — 95 in total. Buy 100; they are
+top of each) and 4 in the vertical cage — 92 in total. Buy 100; they are
 small, and one will find the floor.
 
 **On the ballast, before you buy any.** The shot goes into the printed base through a **⌀8 mm
@@ -68,11 +68,11 @@ printed parts are in the [print list](Print.md).
 | Vertical cage, bottom | 1 | – | – | – | 3 | – | – |
 | Vertical cage, top | 1 | – | 1 | – | – | 1 | – |
 | Aligner (horizontal stop) | 1 | – | – | 2 | – | 2 | – |
-| Stopper (vertical stop) | 1 | – | – | 1 | – | 1 | 3 |
+| Stopper (vertical stop) | 1 | – | – | 1 | – | 1 | – |
 | Interface ring | 4 | – | – | 2 each = 8 | – | 2 each = 8 | 10 each = 40 |
 | Tool head (tweezers) | 4 | 2 each = 8 | – | – | – | 2 each = 8 | 6 each = 24 |
 | Base (printed or machined) | 1 | – | – | – | – | – | 24 |
-| **Total** | | **8** | **1** | **32** | **3** | **38** | **95** |
+| **Total** | | **8** | **1** | **32** | **3** | **38** | **92** |
 
 - 14 of the 32 M3x16 go through the bearing sets: 8 in the two horizontal cages and 6 in the
   pillars. Of the cages' other 4, two join the two cages to each other and one in each cage

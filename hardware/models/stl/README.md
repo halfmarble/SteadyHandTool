@@ -23,13 +23,13 @@ carry orientation and slicer settings rather than geometry, are in [`3mf/`](../3
 
 ## Not in this folder yet: the carriage and the base
 
-Five printable parts are still to come, so you will not find them here:
+Six printable parts are still to come, so you will not find them here:
 
 | Part | Where it is used |
 | :--- | :--- |
 | Horizontal cage | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | Steps 7–8 |
-| Base — the printed shell, filled with steel shot to 680 g | Step 1 |
+| Base — the printed cup and screw-in top, filled with steel shot to 680 g | Step 1 |
 
 **Every 3D model will be published when the campaign funds** — that is the commitment, and it is
 part of what backing it pays for.

@@ -30,9 +30,9 @@ fastener counts are in the [assembly guide](docs/assembly-guide.md#-preparation-
 ```
 
 - **Base.** Print the cup and the top only for the printed version. The machined aluminium base
-  is not a printed part, so a tool built on it needs 48 printed parts. The assembly guide, the
-  BOM and the READMEs still describe the earlier one-piece printed base, with no cover and a fill
-  socket; they will be updated for the screw-in top.
+  is not a printed part, so a tool built on it needs 48 printed parts. The assembly guide and
+  the BOM's ballast note still describe the earlier one-piece printed base, with no cover and a
+  fill socket; they will be updated for the screw-in top.
 - **Spacers.** One fat and one thin spacer per bearing set, 14 sets.
 - **Tool heads.** Four, one for each pocket in the base. Any of them can be
   `InterfaceManualVacuumPen.stl` instead, or a head of your own made from `InterfaceTemplate.stl`.
@@ -77,7 +77,7 @@ has no such option, skip only that option.
 - **Avoid a smooth PEI plate.** PETG can bond to it hard enough to pull the coating off.
 - **Test the fits before printing the set.** PETG-GF shrinks differently from PETG-CF, so holes
   come out a little different in size. Print one horizontal cage and check that its bearings
-  seat, and print one tool head and check that it homes in its pocket. If you print the base,
+  seat, and print one tweezers head and check that it homes in its pocket. If you print the base,
   check that the top threads into the cup before you fill it.
 - **The printed cup and top get heavier.** PETG-GF is usually denser than PETG-CF, so they
   weigh more and the base needs less shot. Weigh the base, as

@@ -49,7 +49,7 @@ guide](docs/assembly-guide.md#step-1-weight-the-base).
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **32x M3x16, 3x M3x20, 1x M3x10, 8x M3x8, and 38 nuts** | Structural assembly of the arm |
+| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **32x M3x16, 3x M3x20, 1x M3x12, 8x M3x8, and 38 nuts** | Structural assembly of the arm |
 
 Buy a few spares of each size. **Neither base takes a fastener of any kind** — every one of these
 goes into the arm. The step-by-step breakdown is in the
@@ -60,7 +60,7 @@ goes into the arm. The step-by-step breakdown is in the
 Where each fastener and magnet above goes. **Qty** is how many of the part one tool has; the
 printed parts are in the [print list](Print.md).
 
-| Part | Qty | M3x8 | M3x10 | M3x16 | M3x20 | M3 nuts | Magnets |
+| Part | Qty | M3x8 | M3x12 | M3x16 | M3x20 | M3 nuts | Magnets |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Horizontal cage | 2 | – | – | 12 for the pair | – | 12 for the pair | – |
 | Pillar | 3 | – | – | 2 each = 6 | – | 2 each = 6 | – |

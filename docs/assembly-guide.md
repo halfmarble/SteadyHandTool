@@ -13,7 +13,7 @@ This assembly guide is based on the [Steady Hand Tool DIY Part 1](https://www.yo
 
 ## 🔩 Preparation: Fasteners Sorting
 Every bolt and nut is M3. Before starting, sort the bolts into piles by length:
-**8, 10, 16 and 20 mm**.
+**8, 12, 16 and 20 mm**.
 
 These are the totals the steps below actually consume. Count them out before you start — it is
 much easier than discovering a shortfall at Step 12.
@@ -21,7 +21,7 @@ much easier than discovering a shortfall at Step 12.
 | Fastener | Quantity | Where it goes |
 | :--- | ---: | :--- |
 | M3 x 8 | 8 | Step 12 |
-| M3 x 10 | 1 | Step 8 |
+| M3 x 12 | 1 | Step 8 |
 | M3 x 16 | 32 | Steps 4, 6, 8, 9, 10, 11 |
 | M3 x 20 | 3 | Step 8 |
 | M3 nuts | 38 | Steps 4, 6, 8, 9, 10, 11, 12 |
@@ -58,7 +58,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 **619 g base against a 680 g spec**. The chamber was never too small. The media was too big.
 
 ### Step 2: Sorting Bolts
-* Sort the M3 bolts by length (8, 10, 16 and 20 mm) to avoid mistakes in later steps.
+* Sort the M3 bolts by length (8, 12, 16 and 20 mm) to avoid mistakes in later steps.
 
 ### Step 3: Close the Base — *no longer required, skip it*
 * The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **Neither base has a
@@ -88,9 +88,9 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * Assemble the bearing sets into the vertical cage components.
 
 ### Step 8: Vertical Cage (Part B)
-* **Parts:** 3x M3x16 bolts, 3x M3x20 bolts, 1x M3x10 bolt, 1x M3 nut.
+* **Parts:** 3x M3x16 bolts, 3x M3x20 bolts, 1x M3x12 bolt, 1x M3 nut.
 * Join the vertical cage components and attach the vertical rods.
-* **Note:** Use the single short **M3x10** bolt specifically for the rod interface.
+* **Note:** Use the single short **M3x12** bolt specifically for the rod interface.
 
 ### Step 9: Horizontal Stop
 * **Parts:** 2x M3x16 bolts and 2x M3 nuts.

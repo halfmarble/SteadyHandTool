@@ -65,8 +65,8 @@ printed parts are in the [print list](Print.md).
 | Horizontal cage | 2 | – | 12 for the pair | – | 12 for the pair | – |
 | Pillar | 3 | – | 2 each = 6 | – | 2 each = 6 | – |
 | Vertical cage | 1 | – | 3 | – | – | 4 |
-| Vertical cage, bottom | 1 | – | – | 3 | – | – |
-| Vertical cage, top | 1 | – | 1 | – | 1 | – |
+| Vertical cage, bottom | 1 | – | – | – | 1 | – |
+| Vertical cage, top | 1 | – | 1 | 3 | – | – |
 | Aligner (horizontal stop) | 1 | – | 2 | – | 2 | – |
 | Stopper (vertical stop) | 1 | – | 1 | – | 1 | – |
 | Interface ring | 4 | – | 2 each = 8 | – | 2 each = 8 | 10 each = 40 |
@@ -77,8 +77,10 @@ printed parts are in the [print list](Print.md).
 - 14 of the 33 M3x16 go through the bearing sets: 8 in the two horizontal cages and 6 in the
   pillars. Of the cages' other 4, two join the two cages to each other and one in each cage
   clamps the vertical mast.
-- The 3 M3x16 of the vertical cage and the 3 M3x20 of its bottom form their own thread in the
-  pillars and take no nut.
+- The 3 M3x16 of the **Vertical cage** and the 3 M3x20 of the **Vertical cage, top** form their
+  own thread in the pillars and take no nut.
+- The M3x16 of the **Vertical cage, top** goes in from that part and passes into the
+  **Vertical cage, bottom**, where its nut sits.
 - The M3x8 and their nuts clamp the tweezers. A vacuum-pen or template head takes none.
 
 ### 🔧 Tools

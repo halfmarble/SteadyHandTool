@@ -11,9 +11,9 @@ fastener counts are in the [assembly guide](docs/assembly-guide.md#-preparation-
 |  1 | Base, printed cup      | base_PRINTED_v23_topplug_cup.stl          |   1 | On funding |
 |  2 | Base, printed top      | base_PRINTED_v23_topplug_top.stl          |   1 | On funding |
 |  3 | Horizontal cage        | SteadyHandTool-CageH_2.stl                |   2 | On funding |
-|  4 | Vertical cage          | SteadyHandTool-CageV.stl                  |   1 | On funding |
+|  4 | Vertical cage, bottom  | SteadyHandTool-CageVBottom.stl            |   1 | On funding |
 |  5 | Vertical cage, top     | SteadyHandTool-CageVTop.stl               |   1 | On funding |
-|  6 | Vertical cage, bottom  | SteadyHandTool-CageVBottom.stl            |   1 | On funding |
+|  6 | Vertical cage, middle  | SteadyHandTool-CageVMiddle.stl            |   1 | On funding |
 |  7 | Spacer, fat            | SteadyHandTool-Spacer.stl                 |  14 | Yes        |
 |  8 | Spacer, thin           | SteadyHandTool-SpacerSmall.stl            |  14 | Yes        |
 |  9 | Pillar                 | SteadyHandTool-Pillar.stl                 |   3 | Yes        |

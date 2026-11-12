@@ -13,7 +13,7 @@ This assembly guide is based on the [Steady Hand Tool DIY Part 1](https://www.yo
 
 ## 🔩 Preparation: Fasteners Sorting
 Every bolt and nut is M3. Before starting, sort the bolts into piles by length:
-**8, 16 and 20 mm**.
+**8 and 16 mm**.
 
 These are the totals the steps below actually consume. Count them out before you start — it is
 much easier than discovering a shortfall at Step 12.
@@ -21,9 +21,8 @@ much easier than discovering a shortfall at Step 12.
 | Fastener | Quantity | Where it goes |
 | :--- | ---: | :--- |
 | M3 x 8 | 8 | Step 12 |
-| M3 x 16 | 33 | Steps 4, 6, 8, 9, 10, 11 |
-| M3 x 20 | 3 | Step 8 |
-| M3 nuts | 38 | Steps 4, 6, 8, 9, 10, 11, 12 |
+| M3 x 16 | 38 | Steps 4, 6, 8, 9, 10, 11 |
+| M3 nuts | 40 | Steps 4, 6, 8, 9, 10, 11, 12 |
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -57,7 +56,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 **619 g base against a 680 g spec**. The chamber was never too small. The media was too big.
 
 ### Step 2: Sorting Bolts
-* Sort the M3 bolts by length (8, 16 and 20 mm) to avoid mistakes in later steps.
+* Sort the M3 bolts by length (8 and 16 mm) to avoid mistakes in later steps.
 
 ### Step 3: Close the Base — *no longer required, skip it*
 * The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **Neither base has a
@@ -79,17 +78,18 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * **Parts:** 4x M3x16 bolts and 4x M3 nuts.
 * Secure the cage assembly.
 * **Pro Tip:** In tight spots, thread a long bolt in from the far side as a temporary handle to
-  guide a nut into its pocket and hold it there while you start the real fastener. The M3x20
-  bolts are not needed until Step 8, so one of those is a good size for the job.
+  guide a nut into its pocket and hold it there while you start the real fastener. A spare
+  M3x16 is a good size for the job.
 
 ### Step 7: Vertical Cage (Part A)
 * **Parts:** 6 prepared bearing sets.
 * Assemble the bearing sets into the vertical cage components.
 
 ### Step 8: Vertical Cage (Part B)
-* **Parts:** 4x M3x16 bolts, 3x M3x20 bolts, 1x M3 nut.
+* **Parts:** 9x M3x16 bolts and 3x M3 nuts.
 * Join the vertical cage components and attach the vertical rods.
-* **Note:** The rod interface takes one of the four **M3x16** bolts, and the nut.
+* **Note:** The three bolts that join the top part to the middle part take the nuts; the other six
+  form their own thread in the pillars.
 
 ### Step 9: Horizontal Stop
 * **Parts:** 2x M3x16 bolts and 2x M3 nuts.

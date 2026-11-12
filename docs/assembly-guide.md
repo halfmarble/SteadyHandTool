@@ -22,7 +22,7 @@ much easier than discovering a shortfall at Step 12.
 | :--- | ---: | :--- |
 | M3 x 8 | 8 | Step 12 |
 | M3 x 16 | 38 | Steps 4, 6, 8, 9, 10, 11 |
-| M3 nuts | 34 | Steps 4, 6, 8, 9, 10, 11, 12 |
+| M3 nuts | 40 | Steps 4, 6, 8, 9, 10, 11, 12 |
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -66,10 +66,9 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * The step number is kept so the guide still lines up with the video.
 
 ### Step 4: Prepare the Bearings
-* **Parts:** 14x M3x16 bolts and 8x M3 nuts.
+* **Parts:** 14x M3x16 bolts and 14x M3 nuts.
 * **Assembly Order:** Thin spacer ➡️ Metal bearing ➡️ Fat spacer.
-* Repeat this for all 14 bearing sets. The 8 for the horizontal cage take a nut each; the 6 for
-  the vertical cage take none, since their bolts form their own thread in the pillars.
+* Repeat this for all 14 bearing sets.
 
 ### Step 5: Horizontal Cage (Part A)
 * **Parts:** 8 prepared bearing sets.

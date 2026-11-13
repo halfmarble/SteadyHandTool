@@ -31,7 +31,6 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 ## 🧩 Assembly Steps
 
 ### Step 1: Weight the Base
-*Printed base only. The machined aluminium base is solid and reaches its mass as material — skip to Step 2.*
 
 * **Media: round steel shot, 1.5 - 2.0 mm, nominal 2.0 mm.** This is not a preference, and it is
   bounded at both ends:
@@ -59,10 +58,10 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * Sort the M3 bolts by length (8 and 16 mm) to avoid mistakes in later steps.
 
 ### Step 3: Close the Base — *no longer required, skip it*
-* The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **Neither base has a
+* The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **The base has no
   cover any more.**
 * The printed base is filled through the ⌀8 socket in Step 1 and is finished once it is at
-  weight; the machined base is solid aluminium. **Neither takes a fastener of any kind.**
+  weight. **It takes no fastener of any kind.**
 * The step number is kept so the guide still lines up with the video.
 
 ### Step 4: Prepare the Bearings

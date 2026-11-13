@@ -24,13 +24,11 @@ fastener counts are in the [assembly guide](docs/assembly-guide.md#-preparation-
 | 14 | Name plate             | SteadyHandTool-Plate_STEADY_HAND_TOOL.stl |   1 | Yes        |
 | 15 | Logo plate             | SteadyHandTool-Plate_half_LOGO_marble.stl |   1 | Yes        |
 +----+------------------------+-------------------------------------------+-----+------------+
-|    | Total, printed base    |                                           |  50 |            |
-|    | Total, machined base   |                                           |  48 |            |
+|    | Total                  |                                           |  50 |            |
 +----+------------------------+-------------------------------------------+-----+------------+
 ```
 
-- **Base.** Print the cup and the top only for the printed version. The machined aluminium base
-  is not a printed part, so a tool built on it needs 48 printed parts. The assembly guide and
+- **Base.** Print the cup and the top. The assembly guide and
   the BOM's ballast note still describe the earlier one-piece printed base, with no cover and a
   fill socket; they will be updated for the screw-in top.
 - **Spacers.** One fat and one thin spacer per bearing set, 14 sets.

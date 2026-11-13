@@ -114,6 +114,6 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 
 **Next Step:** Watch Part 2 to learn how to install the magnets for the base and interface.
 
-> **Before you install any magnet, read the [Magnet Polarity Standard](magnet-polarity.md).**
+> **Before you install any magnet, read the [Magnet Polarity Standard](magnet-polarity.md).** If you use the two magnet pushers, N and S, it says where to start: print and check them first.
 > Orientation cannot be read from a model file, and getting it wrong is what stops one
 > person's tool adapter from seating in another person's base.

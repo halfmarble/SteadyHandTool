@@ -97,6 +97,7 @@ steady-hand-tool/
 | `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | ✅ Published | Name plate (Step 12) |
 | `SteadyHandTool-Plate_half_LOGO_marble.stl` | ✅ Published | Logo plate (Step 12) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
+| `MagnetPusherN_*.stl`, `MagnetPusherS_*.stl`, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and an optional tip sleeve: they seat each magnet with the right pole facing out ([magnet polarity standard](docs/magnet-polarity.md)) |
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
 | Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 680 g (Step 1) |

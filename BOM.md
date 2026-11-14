@@ -22,8 +22,8 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
 | <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://amzn.to/4jpyyZC) | 8mm Diameter x 300mm (**4 required**) | 2 horizontal rails, 1 vertical mast, 1 vertical tool rod |
-| <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
-| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (92 required, buy 100) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
+| <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (**14 required**) | Frictionless carriage movement |
+| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (**92 required**, buy 100) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
 | | **Base Ballast** | Round steel shot, **1.5 - 2.0 mm** (nominal 2.0 mm). Approx. **590 g** per base | Fills the printed base to **680 g ± 10 g**. **Size is not a preference** — read the note below before you buy any |
 
 **Magnet count, broken down:** 24 in the base (four tool pockets, six each), 24 in the four
@@ -49,10 +49,10 @@ guide](docs/assembly-guide.md#step-1-weight-the-base).
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://amzn.to/42phRHt) | Stainless steel. **38x M3x16, 8x M3x8, and 40 nuts** | Structural assembly of the arm |
+| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://a.co/d/00OqDeqm) | Stainless steel. **39x M3x16, 8x M3x8, and 41 nuts** | Structural assembly of the arm and the base's rod clamp |
 
-Buy a few spares of each size. **The base takes no fastener of any kind** — every one of these
-goes into the arm. The step-by-step breakdown is in the
+Buy a few spares of each size. **One M3x16 and its nut go into the base**, where they close the
+clamp on the vertical mast; every other one goes into the arm. The step-by-step breakdown is in the
 [assembly guide](docs/assembly-guide.md#-preparation-fasteners-sorting).
 
 ### 🧩 Fasteners and magnets per part
@@ -71,16 +71,19 @@ printed parts are in the [print list](Print.md).
 | Stopper (vertical stop) | 1 | – | 1 | 1 | – |
 | Interface ring | 4 | – | 2 each = 8 | 2 each = 8 | 10 each = 40 |
 | Tool head (tweezers) | 4 | 2 each = 8 | – | 2 each = 8 | 6 each = 24 |
-| Base | 1 | – | – | – | 24 |
-| **Total** | | **8** | **38** | **40** | **92** |
+| Base | 1 | – | 1 | 1 | 24 |
+| **Total** | | **8** | **39** | **41** | **92** |
 
-- 14 of the 38 M3x16 go through the bearing sets: 8 in the two horizontal cages and 6 in the
+- 14 of the 39 M3x16 go through the bearing sets: 8 in the two horizontal cages and 6 in the
   pillars. Of the cages' other 4, two join the two cages to each other and one in each cage
   clamps the vertical mast.
 - The 3 M3x16 of the **Vertical cage, bottom** and the 3 M3x16 of the **Vertical cage, middle** form
   their own thread in the pillars and take no nut.
 - The 3 M3x16 of the **Vertical cage, top** go in from that part and pass into the
   **Vertical cage, middle**, where their nuts sit.
+- The M3x16 and nut of the **Base** close the rod clamp inside the **BaseCup** on the vertical
+  mast. Tighten it before any shot goes into the open BaseCup; the clamp ends up under the shot.
+  See [Step 1 of the assembly guide](docs/assembly-guide.md#step-1-weight-the-base).
 - The M3x8 and their nuts clamp the tweezers. A vacuum-pen or template head takes none.
 
 ### 🔧 Tools

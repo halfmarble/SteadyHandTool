@@ -21,8 +21,8 @@ much easier than discovering a shortfall at Step 12.
 | Fastener | Quantity | Where it goes |
 | :--- | ---: | :--- |
 | M3 x 8 | 8 | Step 12 |
-| M3 x 16 | 38 | Steps 4, 6, 8, 9, 10, 11 |
-| M3 nuts | 40 | Steps 4, 6, 8, 9, 10, 11, 12 |
+| M3 x 16 | 39 | Steps 1, 4, 6, 8, 9, 10, 11 |
+| M3 nuts | 41 | Steps 1, 4, 6, 8, 9, 10, 11, 12 |
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -32,6 +32,15 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 
 ### Step 1: Weight the Base
 
+* **Parts:** 1x M3x16 bolt and 1x M3 nut, for the rod clamp inside the **BaseCup**. The printed
+  base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](../Print.md)).
+  Push the vertical mast into the BaseCup's socket and tighten the clamp on it, then pour the shot
+  into the open BaseCup. Clear any shot off the clamp's top before you screw the BaseTop on. The
+  fill notes below describe the earlier one-piece base, filled through its ⌀8 socket; the shot
+  size and the weighing apply to both.
+* **The mast is clamped in, and the BaseTop is off, while you weigh,** so weigh the mast and the
+  BaseTop on their own first: add the mast's weight to the 680 g target below, and take the
+  BaseTop's off it.
 * **Media: round steel shot, 1.5 - 2.0 mm, nominal 2.0 mm.** This is not a preference, and it is
   bounded at both ends:
   * **Nothing above 2.0 mm.** The shot enters through the central **⌀8 mm socket**, and that
@@ -42,7 +51,7 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
   * **Nothing below 1.5 mm.** The chamber vents are ⌀1.5 mm. Anything finer runs back out of them.
   * SAE **S-780** blasting shot and **#9 steel reloading shot** both sit in this window. If a
     grade publishes a screen analysis, check its tail stays above 1.5 mm.
-* **Fill through the ⌀8 socket in the top of the base.** There is no cover and no fasteners — the
+* **Fill through the ⌀8 socket in the top of the base.** There is no cover — the
   socket is the fill port, and the base is finished as soon as it is at weight. A funnel helps.
 * **Pour in stages, tapping or vibrating the base between them.** A settled fill reaches the
   target comfortably; one unsettled pour lands at the bottom of the tolerance or below.
@@ -58,10 +67,10 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * Sort the M3 bolts by length (8 and 16 mm) to avoid mistakes in later steps.
 
 ### Step 3: Close the Base — *no longer required, skip it*
-* The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **The base has no
-  cover any more.**
-* The printed base is filled through the ⌀8 socket in Step 1 and is finished once it is at
-  weight. **It takes no fastener of any kind.**
+* The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **The base no
+  longer takes a bolted cover.**
+* The printed base is filled in Step 1 and is finished once it is at
+  weight. **Its only fastener is the rod clamp's M3x16 and nut (Step 1).**
 * The step number is kept so the guide still lines up with the video.
 
 ### Step 4: Prepare the Bearings
@@ -107,7 +116,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
   the [print list](../Print.md). A vacuum-pen or template head takes none.
 * Fit them to each tweezers head; they clamp the tweezers in the head's slot.
 
-### Step 13: Branding
+### Optional Step 13: Branding
 * Install the **Steady Hand Tool** and **halfmarble** logo plates into their designated slots.
 
 ---

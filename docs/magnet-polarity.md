@@ -84,8 +84,8 @@ pusher is the pole that the magnet it seats leaves facing out.**
 **Where to start: make both pushers and check them before any magnet goes into a part.**
 
 1. **Print both.** For each pusher, load its body and its two letters together in your slicer as
-   one object with several parts (`MagnetPusherN_Body.stl`, `MagnetPusherN_LetterFront.stl`,
-   `MagnetPusherN_LetterBack.stl`; the same three for S, in
+   one object with several parts (`MagnetPusherNBody.stl`, `MagnetPusherNLetterFront.stl`,
+   `MagnetPusherNLetterBack.stl`; the same three for S, in
    [`hardware/models/stl/`](../hardware/models/stl)), and give the letters red (N) or blue (S).
    Print them lying flat, as the files are oriented. On a single-colour printer, print the body
    alone: the letter is then a recess, still readable. `MagnetPusherSleeve.stl` is optional

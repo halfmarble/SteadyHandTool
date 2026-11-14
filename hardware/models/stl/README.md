@@ -6,19 +6,19 @@ list for everything you cannot print.
 
 | File | What it is |
 | :--- | :--- |
-| `SteadyHandTool-Pillar.stl` | Upright strut — carries the pivot pins the arm swings on |
-| `SteadyHandTool-Spacer.stl` | The "fat" spacer, ⌀10.8 body on a ⌀8 spigot. One per bearing set |
-| `SteadyHandTool-SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
-| `SteadyHandTool-Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
-| `SteadyHandTool-Aligner.stl` | Alignment jig used during assembly |
-| `SteadyHandTool-InterfaceRing.stl` | The ring the tool head couples to (Step 11) |
-| `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | Name plate (Step 12) |
-| `SteadyHandTool-Plate_half_LOGO_marble.stl` | Logo plate (Step 12) |
+| `Pillar.stl` | Upright strut — carries the pivot pins the arm swings on |
+| `Spacer.stl` | The "fat" spacer, ⌀10.8 body on a ⌀8 spigot. One per bearing set |
+| `SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
+| `Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
+| `Aligner.stl` | Alignment jig used during assembly |
+| `InterfaceRing.stl` | The ring the tool head couples to (Step 11) |
+| `PlateSteadyHandTool.stl` | Name plate (Step 12) |
+| `PlateHalfLogoMarble.stl` | Logo plate (Step 12) |
 | `InterfaceTweezers.stl` | Tweezer head |
 | `InterfaceManualVacuumPen.stl` | Manual vacuum pen head |
 | `InterfaceTemplate.stl` | The blank — start your own tool head from this one |
-| `MagnetPusherN_Body.stl`, `MagnetPusherN_LetterFront.stl`, `MagnetPusherN_LetterBack.stl` | The **N** magnet pusher: body and its two inlay letters (red). Seats magnets north face out — base pockets, ring bottom faces, the cage dock |
-| `MagnetPusherS_Body.stl`, `MagnetPusherS_LetterFront.stl`, `MagnetPusherS_LetterBack.stl` | The **S** magnet pusher: body and its two inlay letters (blue). Seats magnets south face out — tool heads, ring top faces |
+| `MagnetPusherNBody.stl`, `MagnetPusherNLetterFront.stl`, `MagnetPusherNLetterBack.stl` | The **N** magnet pusher: body and its two inlay letters (red). Seats magnets north face out — base pockets, ring bottom faces, the cage dock |
+| `MagnetPusherSBody.stl`, `MagnetPusherSLetterFront.stl`, `MagnetPusherSLetterBack.stl` | The **S** magnet pusher: body and its two inlay letters (blue). Seats magnets south face out — tool heads, ring top faces |
 | `MagnetPusherSleeve.stl` | Optional sleeve for either pusher's tip. How to use them: the [magnet polarity standard](../../../docs/magnet-polarity.md) |
 
 Adapters for third-party tools are one level up, in [`3rdParty/`](../3rdParty). Print plates, which

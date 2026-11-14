@@ -88,16 +88,16 @@ steady-hand-tool/
 
 | Part | Status | Notes |
 | :--- | :--- | :--- |
-| `SteadyHandTool-Pillar.stl` | ✅ Published | Upright strut — carries the pivot pins the arm swings on |
-| `SteadyHandTool-Spacer.stl` | ✅ Published | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
-| `SteadyHandTool-SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
-| `SteadyHandTool-Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
-| `SteadyHandTool-Aligner.stl` | ✅ Published | Alignment jig used during assembly |
-| `SteadyHandTool-InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head (assembly guide, Step 11) |
-| `SteadyHandTool-Plate_STEADY_HAND_TOOL.stl` | ✅ Published | Name plate (Step 12) |
-| `SteadyHandTool-Plate_half_LOGO_marble.stl` | ✅ Published | Logo plate (Step 12) |
+| `Pillar.stl` | ✅ Published | Upright strut — carries the pivot pins the arm swings on |
+| `Spacer.stl` | ✅ Published | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
+| `SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
+| `Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
+| `Aligner.stl` | ✅ Published | Alignment jig used during assembly |
+| `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head (assembly guide, Step 11) |
+| `PlateSteadyHandTool.stl` | ✅ Published | Name plate (Step 12) |
+| `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Step 12) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
-| `MagnetPusherN_*.stl`, `MagnetPusherS_*.stl`, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and an optional tip sleeve: they seat each magnet with the right pole facing out ([magnet polarity standard](docs/magnet-polarity.md)) |
+| `MagnetPusherNBody.stl` and its two letters, `MagnetPusherSBody.stl` and its two letters, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and an optional tip sleeve: they seat each magnet with the right pole facing out ([magnet polarity standard](docs/magnet-polarity.md)) |
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
 | Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 680 g (Step 1) |

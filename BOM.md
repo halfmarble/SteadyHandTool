@@ -49,7 +49,7 @@ guide](docs/assembly-guide.md#step-1-weight-the-base).
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/hardwareM3.jpg" width="100"> | [**M3 Hardware**](https://a.co/d/00OqDeqm) | Stainless steel. **39x M3x16, 8x M3x8, and 41 nuts** | Structural assembly of the arm and the base's rod clamp |
+| <img src="media/hardware-m3.jpg" width="100"> | [**M3 Hardware**](https://a.co/d/00OqDeqm) | Stainless steel. **39x M3x16, 8x M3x8, and 41 nuts** | Structural assembly of the arm and the base's rod clamp |
 
 Buy a few spares of each size. **One M3x16 and its nut go into the base**, where they close the
 clamp on the vertical mast; every other one goes into the arm. The step-by-step breakdown is in the
@@ -58,7 +58,7 @@ clamp on the vertical mast; every other one goes into the arm. The step-by-step 
 ### 🧩 Fasteners and magnets per part
 
 Where each fastener and magnet above goes. **Qty** is how many of the part one tool has; the
-printed parts are in the [print list](Print.md).
+printed parts are in the [print list](print.md).
 
 | Part | Qty | M3x8 | M3x16 | M3 nuts | Magnets |
 | :--- | :---: | :---: | :---: | :---: | :---: |

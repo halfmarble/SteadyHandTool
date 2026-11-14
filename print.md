@@ -8,21 +8,21 @@ fastener counts are in the [assembly guide](docs/assembly-guide.md#-preparation-
 +----+------------------------+-------------------------------------------+-----+------------+
 | #  | Part                   | File                                      | Qty | Published  |
 +----+------------------------+-------------------------------------------+-----+------------+
-|  1 | Base, printed cup      | base_PRINTED_v23_topplug_cup.stl          |   1 | On funding |
-|  2 | Base, printed top      | base_PRINTED_v23_topplug_top.stl          |   1 | On funding |
-|  3 | Horizontal cage        | SteadyHandTool-CageH_2.stl                |   2 | On funding |
-|  4 | Vertical cage, bottom  | SteadyHandTool-CageVBottom.stl            |   1 | On funding |
-|  5 | Vertical cage, top     | SteadyHandTool-CageVTop.stl               |   1 | On funding |
-|  6 | Vertical cage, middle  | SteadyHandTool-CageVMiddle.stl            |   1 | On funding |
-|  7 | Spacer, fat            | SteadyHandTool-Spacer.stl                 |  14 | Yes        |
-|  8 | Spacer, thin           | SteadyHandTool-SpacerSmall.stl            |  14 | Yes        |
-|  9 | Pillar                 | SteadyHandTool-Pillar.stl                 |   3 | Yes        |
-| 10 | Aligner                | SteadyHandTool-Aligner.stl                |   1 | Yes        |
-| 11 | Stopper                | SteadyHandTool-Stopper.stl                |   1 | Yes        |
-| 12 | Interface ring         | SteadyHandTool-InterfaceRing.stl          |   4 | Yes        |
+|  1 | Base, printed cup      | BasePrintedV23TopplugCup.stl              |   1 | On funding |
+|  2 | Base, printed top      | BasePrintedV23TopplugTop.stl              |   1 | On funding |
+|  3 | Horizontal cage        | CageH2.stl                                |   2 | On funding |
+|  4 | Vertical cage, bottom  | CageVBottom.stl                           |   1 | On funding |
+|  5 | Vertical cage, top     | CageVTop.stl                              |   1 | On funding |
+|  6 | Vertical cage, middle  | CageVMiddle.stl                           |   1 | On funding |
+|  7 | Spacer, fat            | Spacer.stl                                |  14 | Yes        |
+|  8 | Spacer, thin           | SpacerSmall.stl                           |  14 | Yes        |
+|  9 | Pillar                 | Pillar.stl                                |   3 | Yes        |
+| 10 | Aligner                | Aligner.stl                               |   1 | Yes        |
+| 11 | Stopper                | Stopper.stl                               |   1 | Yes        |
+| 12 | Interface ring         | InterfaceRing.stl                         |   4 | Yes        |
 | 13 | Tool head              | InterfaceTweezers.stl                     |   4 | Yes        |
-| 14 | Name plate             | SteadyHandTool-Plate_STEADY_HAND_TOOL.stl |   1 | Yes        |
-| 15 | Logo plate             | SteadyHandTool-Plate_half_LOGO_marble.stl |   1 | Yes        |
+| 14 | Name plate             | PlateSteadyHandTool.stl                   |   1 | Yes        |
+| 15 | Logo plate             | PlateHalfLogoMarble.stl                   |   1 | Yes        |
 +----+------------------------+-------------------------------------------+-----+------------+
 |    | Total                  |                                           |  50 |            |
 +----+------------------------+-------------------------------------------+-----+------------+

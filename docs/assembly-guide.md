@@ -33,7 +33,7 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 ### Step 1: Weight the Base
 
 * **Parts:** 1x M3x16 bolt and 1x M3 nut, for the rod clamp inside the **BaseCup**. The printed
-  base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](../Print.md)).
+  base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](../print.md)).
   Push the vertical mast into the BaseCup's socket and tighten the clamp on it, then pour the shot
   into the open BaseCup. Clear any shot off the clamp's top before you screw the BaseTop on. The
   fill notes below describe the earlier one-piece base, filled through its ⌀8 socket; the shot
@@ -113,7 +113,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 
 ### Step 12: Tool Interface
 * **Parts:** 2x M3x8 bolts and 2x M3 nuts for each tweezers head: 8 of each for the four heads in
-  the [print list](../Print.md). A vacuum-pen or template head takes none.
+  the [print list](../print.md). A vacuum-pen or template head takes none.
 * Fit them to each tweezers head; they clamp the tweezers in the head's slot.
 
 ### Optional Step 13: Branding

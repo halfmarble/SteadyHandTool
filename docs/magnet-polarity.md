@@ -91,7 +91,7 @@ pusher is the pole that the magnet it seats leaves facing out.**
    alone: the letter is then a recess, still readable. `MagnetPusherSleeve.stl` is optional
    (step 6); print it open end down, with a brim.
 2. **Fit the tip magnet.** The pocket in the tip may print a little small. If a magnet does not go
-   in, clear the hole with a 4.2 mm drill turned by hand, only down to the bottom of the hole:
+   in, clear the hole with a 4.0 mm drill turned by hand, only down to the bottom of the hole:
    the magnet's face must end up level with the tip's face. Put a drop of glue in the pocket and
    press one magnet in. The two tip magnets come from the spares: the [BOM](../BOM.md) lists 100
    magnets for the 92 seats.

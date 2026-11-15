@@ -42,6 +42,32 @@ fastener counts are in the [assembly guide](docs/assembly-guide.md#-preparation-
 
 The published parts in the table are in [`hardware/models/stl/`](hardware/models/stl/).
 
+## Build tools
+
+These are printed once to fit the magnets. They are not part of the tool. Use them as the
+[Magnet Polarity Standard](docs/magnet-polarity.md#with-the-two-magnet-pushers) describes.
+
+```
++----+------------------------+-------------------------------------------+-----+------------+
+| #  | Part                   | File                                      | Qty | Published  |
++----+------------------------+-------------------------------------------+-----+------------+
+|  1 | N pusher, body         | MagnetPusherNBody.stl                     |   1 | Yes        |
+|  2 | N pusher, front letter | MagnetPusherNLetterFront.stl              |   1 | Yes        |
+|  3 | N pusher, back letter  | MagnetPusherNLetterBack.stl               |   1 | Yes        |
+|  4 | S pusher, body         | MagnetPusherSBody.stl                     |   1 | Yes        |
+|  5 | S pusher, front letter | MagnetPusherSLetterFront.stl              |   1 | Yes        |
+|  6 | S pusher, back letter  | MagnetPusherSLetterBack.stl               |   1 | Yes        |
+|  7 | Pusher sleeve          | MagnetPusherSleeve.stl                    |   2 | Yes        |
++----+------------------------+-------------------------------------------+-----+------------+
+|    | Total                  |                                           |   8 |            |
++----+------------------------+-------------------------------------------+-----+------------+
+```
+
+- **Letters.** They are for a two-colour print. On a single-colour printer, print each body alone
+  (step 1 of the standard).
+- **Without the pushers**, print one sleeve, loose, to press the magnets in from the stack, or
+  use a rod about 3 mm across.
+
 ## Slicing in PETG-GF
 
 The parts are tuned for PETG-CF. To print them in PETG-GF, start from your slicer's PETG-CF

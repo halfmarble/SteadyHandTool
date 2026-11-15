@@ -48,10 +48,11 @@ tool heads, 40 in four interface rings and 4 in the vertical cage (the [BOM](../
 Every magnet seat on the tool's parts is ⌀4 mm and 3 mm deep, so a magnet sits 1 mm below the
 face. Before any magnet goes in, check one seat on each face of each part with a caliper's depth
 rod resting on the seat floor beside the air-relief hole, not in it: 2.9 to 3.2 mm. Clear a
-shallow seat to 3 mm with a 4 mm drill turned by hand. A deeper seat still works: a magnet the
-seat grips stays where the sleeve leaves it, 1 mm below the face, and one it does not grip drops to
-the floor, at most 1.2 mm below. In the vertical cage dock the floor beside the hole may be too
-narrow for the rod; there, check the depth of the magnets instead (step 5).
+shallow seat to 3 mm with a 4 mm drill turned by hand. A seat 3 to 3.2 mm deep works: a
+magnet the seat grips stays where the sleeve leaves it, 1 mm below the face, and one it does not
+grip drops to the floor, at most 1.2 mm below. In the vertical cage dock the
+floor beside the hole may be too narrow for the rod; there, check the depth of the magnets instead
+(step 5).
 
 ```
         pocket, viewed from above          side view, one seat
@@ -118,8 +119,9 @@ pusher is the pole that the magnet it seats leaves facing out.**
    magnet, slide one off the stack onto a non-steel surface, touch the tip to it so it jumps on,
    hold the pusher upright over the seat, press straight down until the sleeve's shoulder stops
    on the face, and lift straight up. The magnet should now sit about 1 mm below the face (0.9 to
-   1.2 mm); if it sits higher, press it again. A magnet that comes loose goes back on the tip,
-   never in by finger: by hand it can go in upside down.
+   1.2 mm); if it sits higher, press it again. If it still sits higher, its seat is shallow: lift
+   the magnet out, clear the seat to 3 mm as described above, and fill it again. A magnet that
+   comes loose goes back on the tip, never in by finger: by hand it can go in upside down.
 6. **If the pusher lifts a magnet back out of its seat or chips its edge,** fill that part from
    the stack instead.
 

@@ -93,7 +93,7 @@ steady-hand-tool/
 | `SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
 | `Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
 | `Aligner.stl` | ✅ Published | Alignment jig used during assembly |
-| `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head (assembly guide, Step 11) |
+| `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head, with a 45° cone on its underside (assembly guide, Step 11) |
 | `PlateSteadyHandTool.stl` | ✅ Published | Name plate (Step 12) |
 | `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Step 12) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |

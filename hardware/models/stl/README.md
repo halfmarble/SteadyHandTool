@@ -11,7 +11,7 @@ list for everything you cannot print.
 | `SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
 | `Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
 | `Aligner.stl` | Alignment jig used during assembly |
-| `InterfaceRing.stl` | The ring the tool head couples to (Step 11) |
+| `InterfaceRing.stl` | The ring the tool head couples to, with a 45° cone on its underside (Step 11) |
 | `PlateSteadyHandTool.stl` | Name plate (Step 12) |
 | `PlateHalfLogoMarble.stl` | Logo plate (Step 12) |
 | `InterfaceTweezers.stl` | Tweezer head |

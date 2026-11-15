@@ -70,6 +70,49 @@ The small hole under each seat is air relief — it lets a magnet press home ins
 trapped air. Its size differs from part to part. In the base it is not a through-hole to the
 outside.
 
+### Check the hole size on your printer first
+
+The seats are drawn ⌀4.00 mm, the size chosen from these coupons on our printer, with the slicer's
+automatic hole compensation turned off: the tightest seat a magnet still went into. Holes
+come out a little larger or smaller from one printer, filament and profile to the next, so check
+yours with the two magnet coupons in [`hardware/models/stl/`](../hardware/models/stl/) before you
+print the parts that hold magnets.
+
+- **What they are.** Two plates, `MagnetCouponMouthUp.stl` and `MagnetCouponMouthDown.stl`, each
+  with 25 seats drawn ⌀3.70 to ⌀4.18 mm in 0.02 mm steps. The number under each seat is the
+  hundredths of its diameter: `70` is ⌀3.70, `98` is ⌀3.98, `00` is ⌀4.00, `18` is ⌀4.18. A
+  **U** or a **D** names the plate.
+- **Print both as exported**, without turning either over: the **U** plate's seats open upward,
+  the **D** plate's open on the bed, as most seats on the parts do. Use the printer, nozzle,
+  filament, profile and hole compensation setting you will print the parts with.
+- **Turn the D plate over to read it.** It is the U plate turned over, so seen from the open side,
+  with the letter band at the bottom, each size sits in the same place on both. Its numbers are
+  pressed into the bed face and may print faint: read a D seat's size from the same place on the
+  U plate.
+- **Press a magnet into each seat** by hand, with a printed sleeve or a rod about 3 mm across.
+  A small hole goes through each seat's floor: push a magnet back out with a pin from the other
+  side.
+
+The fit you want is the **smallest seat a magnet still goes into all the way, by hand**, and stays
+in when you hold the plate face down and tap it. If the plates disagree, go by the D plate.
+Compare that seat with `00` and change the slicer's X-Y hole compensation (Bambu Studio and
+OrcaSlicer) by half the difference, starting from the value the coupons were printed with, on the
+parts with magnet seats only. Printed at 0: a best seat of `96` (⌀3.96) means your holes print
+about 0.04 mm larger than ours, so set −0.02 mm; `04` (⌀4.04) means +0.02 mm; `00` means keep
+the value the coupons were printed with. One step either side of `00` is within normal print
+scatter: if the best seat is `98` or `02`, change nothing unless both plates land on the same
+side of `00`.
+
+If a magnet goes into every seat, first check that the slicer's automatic hole compensation is
+off (in Bambu Studio, its automatic circle contour-hole compensation); if it was on, turn it off
+and print the coupons again. If a magnet still goes into every seat, change the X-Y hole compensation by −0.05 mm and print the coupons again; if it
+goes into none, by +0.05 mm. Repeat until the best seat is on the plates, then change the value
+the coupons were last printed with by half that seat's difference from `00`: printed at −0.05 with
+a best seat of `80`, set −0.15 mm. The setting changes every hole of the part it is set on,
+so print one tool head and one interface ring first: check that the head still seats on the
+ring, and fit a magnet into a seat on each face of the ring. Bambu Studio applies no hole
+compensation to an object painted in more than one colour.
+
 ## Installing the magnets
 
 There are two ways: the magnet pushers, which pick the pole for you, and the stack method, which

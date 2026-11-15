@@ -98,6 +98,7 @@ steady-hand-tool/
 | `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Step 12) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
 | `MagnetPusherNBody.stl` and its two letters, `MagnetPusherSBody.stl` and its two letters, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and a tip sleeve for each: they seat each magnet with the right pole facing out ([magnet polarity standard](docs/magnet-polarity.md)) |
+| `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | ✅ Published | The two magnet coupons: print them first to check that your printer makes magnet seats that grip ([how to read them](docs/magnet-polarity.md#check-the-hole-size-on-your-printer-first)) |
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
 | Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 680 g (Step 1) |

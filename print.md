@@ -58,11 +58,16 @@ These are printed once to fit the magnets. They are not part of the tool. Use th
 |  5 | S pusher, front letter | MagnetPusherSLetterFront.stl              |   1 | Yes        |
 |  6 | S pusher, back letter  | MagnetPusherSLetterBack.stl               |   1 | Yes        |
 |  7 | Pusher sleeve          | MagnetPusherSleeve.stl                    |   2 | Yes        |
+|  8 | Magnet coupon, up      | MagnetCouponMouthUp.stl                   |   1 | Yes        |
+|  9 | Magnet coupon, down    | MagnetCouponMouthDown.stl                 |   1 | Yes        |
 +----+------------------------+-------------------------------------------+-----+------------+
-|    | Total                  |                                           |   8 |            |
+|    | Total                  |                                           |  10 |            |
 +----+------------------------+-------------------------------------------+-----+------------+
 ```
 
+- **Magnet coupons.** Print these two first, before any part with magnet seats, to check that
+  your printer makes seats that grip the magnets: see
+  [the hole size on your printer](docs/magnet-polarity.md#check-the-hole-size-on-your-printer-first).
 - **Letters.** They are for a two-colour print. On a single-colour printer, print each body alone
   (step 1 of the standard).
 - **Without the pushers**, print one sleeve, loose, to press the magnets in from the stack, or

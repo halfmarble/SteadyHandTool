@@ -20,6 +20,7 @@ list for everything you cannot print.
 | `MagnetPusherNBody.stl`, `MagnetPusherNLetterFront.stl`, `MagnetPusherNLetterBack.stl` | The **N** magnet pusher: body and its two inlay letters (red). Seats magnets north face out — base pockets, ring bottom faces, the cage dock |
 | `MagnetPusherSBody.stl`, `MagnetPusherSLetterFront.stl`, `MagnetPusherSLetterBack.stl` | The **S** magnet pusher: body and its two inlay letters (blue). Seats magnets south face out — tool heads, ring top faces |
 | `MagnetPusherSleeve.stl` | Sleeve for a pusher's tip: print two, one for each pusher. How to use them: the [magnet polarity standard](../../../docs/magnet-polarity.md) |
+| `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | The two magnet coupons: 25 magnet seats each, ⌀3.70 to ⌀4.18 mm, to check how your printer prints the ⌀4 seats before you print the parts. How to read them: the [magnet polarity standard](../../../docs/magnet-polarity.md#check-the-hole-size-on-your-printer-first) |
 
 Adapters for third-party tools are one level up, in [`3rdParty/`](../3rdParty). Print plates, which
 carry orientation and slicer settings rather than geometry, are in [`3mf/`](../3mf).

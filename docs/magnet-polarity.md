@@ -121,7 +121,7 @@ a seat, or will not leave a magnet in it, use the stack method for that part.
 
 ### With the two magnet pushers
 
-Two printed hand tools, one per pole. Each has one magnet glued into its tip. A loose magnet
+Two printed hand tools, one per pole. Each has two magnets, stacked, glued into its tip. A loose magnet
 jumps onto the tip the right way round, and the tool presses it into its seat. **The letter on a
 pusher is the pole that the magnet it seats leaves facing out.**
 
@@ -139,17 +139,19 @@ pusher is the pole that the magnet it seats leaves facing out.**
    Print them lying flat, as the files are oriented. On a single-colour printer, print the body
    alone: the letter is then a recess, still readable. Print `MagnetPusherSleeve.stl` twice, one
    for each pusher, open end down, with a brim.
-2. **Fit the tip magnet.** The pocket in the tip may print a little small. If a magnet does not go
-   in, clear the hole with a 4.0 mm drill turned by hand, only down to the bottom of the hole:
-   the magnet's face must end up level with the tip's face. Put a drop of glue in the pocket and
-   press one magnet in. The two tip magnets come from the spares: the [BOM](../BOM.md) lists 100
+2. **Fit the tip magnets.** The pocket in the tip is 4 mm deep, for two magnets, and may print a
+   little small. If the magnets do not go in, clear the hole with a 4.0 mm drill turned by hand,
+   only down to the bottom of the hole: the outer magnet's face must end up level with the tip's
+   face. Let two magnets snap together into a short stack, put a drop of glue in the pocket and
+   press the stack in. The four tip magnets come from the spares: the [BOM](../BOM.md) lists 100
    magnets for the 92 seats.
 3. **Check its pole with a compass before the glue sets.** First make sure the compass points
    north when nothing magnetic is near. Then bring the tip in slowly from the side of the needle,
    from about 10 cm away, and stop as soon as the needle moves. **The N pusher's tip must pull
    the needle's marked (north-seeking) end towards it; the S pusher's tip must push it away.** If
-   a tip does the opposite, take its magnet out and put it back the other way up, then check
-   again. Then let the glue set.
+   a tip does the opposite, take its stack out and put it back the other way up (if the two
+   magnets come apart, let them snap together again first), then check again. Then let the glue
+   set.
 4. **Cross-check:** the two tips must snap together. If they push apart, one of the checks in
    step 3 was misread: do it again on both. Then glue a sleeve over each tip. Its narrow nose
    enters the seat, and its shoulder stops on the part's face with the magnet on the seat floor,

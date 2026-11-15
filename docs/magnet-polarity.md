@@ -45,19 +45,24 @@ which is the same way up in the ring. Check each face with a compass (below).
 The magnets are ⌀4 × 2 mm neodymium throughout. One tool takes 92: 24 in the base, 24 in four
 tool heads, 40 in four interface rings and 4 in the vertical cage (the [BOM](../BOM.md)).
 
-The seats are not all the same size. The base's are ⌀4 mm and 2 mm deep, so a magnet sits flush
-with the pocket floor. On the other parts they are ⌀4.2 mm and about 2.1 to 2.5 mm deep — about
-2.1 mm in the tool heads — so a magnet sits flush or just below the face.
+Every magnet seat on the tool's parts is ⌀4 mm and 3 mm deep, so a magnet sits 1 mm below the
+face. Before any magnet goes in, check one seat on each face of each part with a caliper's depth
+rod resting on the seat floor beside the air-relief hole, not in it: 2.9 to 3.2 mm. Clear a
+shallow seat to 3 mm with a 4 mm drill turned by hand. A deeper seat still works: a magnet the
+seat grips stays where the sleeve leaves it, 1 mm below the face, and one it does not grip drops to
+the floor, at most 1.2 mm below. In the vertical cage dock the floor beside the hole may be too
+narrow for the rod; there, check the depth of the magnets instead (step 5).
 
 ```
         pocket, viewed from above          side view, one seat
 
-              N     N                      ___________________
-           N           N                   |    magnet   |     <- N face up, flush
-              N     N                      |_____________|
-                                           |   air relief
-        all six the same pole              |
-        ⌀18 bolt circle, 60 deg apart      v  ballast chamber
+              N     N                      ___          ___    <- part face
+           N           N                      |________|       <- magnet's N face up, 1 mm below
+              N     N                         | magnet |
+                                              |________|
+                                              |   air relief
+        all six the same pole                 |
+        ⌀18 bolt circle, 60 deg apart         v  ballast chamber
 ```
 
 The small hole under each seat is air relief — it lets a magnet press home instead of riding on
@@ -88,8 +93,8 @@ pusher is the pole that the magnet it seats leaves facing out.**
    `MagnetPusherNLetterBack.stl`; the same three for S, in
    [`hardware/models/stl/`](../hardware/models/stl)), and give the letters red (N) or blue (S).
    Print them lying flat, as the files are oriented. On a single-colour printer, print the body
-   alone: the letter is then a recess, still readable. `MagnetPusherSleeve.stl` is optional
-   (step 6); print it open end down, with a brim.
+   alone: the letter is then a recess, still readable. Print `MagnetPusherSleeve.stl` twice, one
+   for each pusher, open end down, with a brim.
 2. **Fit the tip magnet.** The pocket in the tip may print a little small. If a magnet does not go
    in, clear the hole with a 4.0 mm drill turned by hand, only down to the bottom of the hole:
    the magnet's face must end up level with the tip's face. Put a drop of glue in the pocket and
@@ -102,27 +107,33 @@ pusher is the pole that the magnet it seats leaves facing out.**
    a tip does the opposite, take its magnet out and put it back the other way up, then check
    again. Then let the glue set.
 4. **Cross-check:** the two tips must snap together. If they push apart, one of the checks in
-   step 3 was misread: do it again on both.
+   step 3 was misread: do it again on both. Then glue a sleeve over each tip. Its narrow nose
+   enters the seat, and its shoulder stops on the part's face with the magnet on the seat floor,
+   1 mm below the face. Without the sleeve, the tip stops on the face and leaves the magnet 1 mm
+   short of the floor.
 5. **Work one pole at a time, N first.** With only the N pusher on the bench, fill every base
    pocket, the bottom face of every interface ring and the vertical cage dock. Put it away, then
    take the S pusher and fill every tool head and the top face of every ring. Before starting on
    a ring, count the seats on the face that is up: six is an N face, four is an S face. For each
    magnet, slide one off the stack onto a non-steel surface, touch the tip to it so it jumps on,
-   hold the pusher upright over the seat, press straight down until it stops, and lift straight
-   up. A magnet that comes loose goes back on the tip, never in by finger: by hand it can go in
-   upside down.
-6. **If the pusher lifts a magnet back out of its seat or chips its edge,** glue the sleeve over
-   the tip. It holds the magnet more gently, and its narrow nose pushes the magnet flush or just
-   below the surface. If magnets still come out, fill that part from the stack instead.
+   hold the pusher upright over the seat, press straight down until the sleeve's shoulder stops
+   on the face, and lift straight up. The magnet should now sit about 1 mm below the face (0.9 to
+   1.2 mm); if it sits higher, press it again. A magnet that comes loose goes back on the tip,
+   never in by finger: by hand it can go in upside down.
+6. **If the pusher lifts a magnet back out of its seat or chips its edge,** fill that part from
+   the stack instead.
 
 Then check each array, as below.
 
 ### Without the pushers: from the stack
 
 Neodymium magnets ship as a stack, uniformly polarised. **Do not separate the stack and sort the
-magnets.** Slide one magnet off the end of the stack at a time and drop it straight into its
-seat without turning it over. Every magnet then lands the same way round, and you only have to
-verify the array once rather than six times.
+magnets.** Slide one magnet off the end of the stack at a time, drop it straight into its seat
+without turning it over, and press it down to the seat floor, 1 mm below the face, with something
+non-magnetic and narrower than the seat: a spare sleeve, printed loose and held in the fingers
+(its nose enters the seat and its shoulder stops on the face), or a wooden or plastic rod about
+3 mm across. Every magnet then lands the same way round, and you only have to verify the array
+once rather than six times.
 
 If a magnet flips itself as it approaches the seat, it was already attracted to a neighbour in
 the wrong orientation — take it out and start that seat again.
@@ -165,7 +176,8 @@ tool head push apart, the old base predates the convention; it is not evidence t
 convention is wrong.
 
 Re-polarising an existing part is straightforward and reversible. Push each magnet out through
-its air-relief hole with a pin, turn it over, and press it back in. There is no adhesive and
+its air-relief hole with a pin, turn it over, and press it back in, down to the seat floor as in
+"Without the pushers". There is no adhesive and
 nothing to damage.
 
 ## For tool head designers

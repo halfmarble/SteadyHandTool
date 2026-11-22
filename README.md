@@ -2,20 +2,8 @@
 
 # Steady Hand Tool
 
-> “When you're racing against your own biology, the **story** is just the exhaust; the **science is the engine** and time is the fuel.”
-
 <p align="center">
-  <img src="media/hero-shot.jpg" alt="Steady Hand Tool v1" width="600">
-  <br>
-</p>
-<p align="center">
-  <img src="media/hero-shot2.jpg" alt="Steady Hand Tool v1" width="600">
-  <br>
-</p>
-<p align="center">
-  <img src="media/hero-shot3.jpg" alt="Steady Hand Tool v1" width="600">
-  <br><br><br>
-  <em>Steady Hand Tool: Mechanical stability for a wandering hand.</em>
+  <img src="media/SteadyHandToolAnimation.gif" alt="The Steady Hand Tool, assembled with a tweezers head, turning, then coming apart into its parts and going back together" width="600">
 </p>
 
 ## See it in Action
@@ -37,7 +25,7 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Near-Zero Friction:** Equipped with **14 high-quality metal bearings** and carbon fiber rods for smooth, silent, and effortless operation.
 * **Modular Magnetic Coupler:** Features a quick-swap magnetic system for changing tool heads (tweezers, vacuum tips, etc.) in seconds.
 * **Purely Mechanical:** No power required, no cables, and no noise. It's always ready to work when you are.
-* **Heavy-Duty Base:** A weighted **680g (1.5 lb)** base ensures the arm remains stable even at full extension.
+* **Heavy-Duty Base:** A weighted **785g (1.7 lb)** base ensures the arm remains stable even at full extension.
 * **Open Source:** Designed to be hacked and customized. Create your own tool heads to suit your specific workflow.
 
 ## 🚀 Get Yours
@@ -77,14 +65,21 @@ steady-hand-tool/
 │       └── step/           # CAD-fidelity parts (being added part by part)
 ├── docs/
 │   ├── assembly-guide.md   # Step-by-step build instructions
-│   └── magnet-polarity.md  # The polarity standard every adapter follows
-├── media/                  # Photos used in the docs
-├── BOM.md                  # Bill of Materials (the "Shopping List")
+│   ├── BOM.md              # Bill of Materials (the "Shopping List")
+│   ├── illustrations/      # Assembly and magnet seating illustrations
+│   ├── images/             # Photos of the parts you buy (BOM)
+│   ├── magnets.md          # Magnet polarity, seating and the optional rig
+│   └── print.md            # What to print, and how
+├── media/                  # The animation and the illustration on this page
 ├── LICENSE                 # CERN-OHL-S-2.0 License text
 └── README.md               # This file
 ```
 
 ### The parts, and which are published
+
+<p align="center">
+  <img src="media/SteadyHandToolIllustration.png" alt="The complete Steady Hand Tool, assembled with a tweezers head, each part named with its assembly step" width="800">
+</p>
 
 | Part | Status | Notes |
 | :--- | :--- | :--- |
@@ -93,22 +88,23 @@ steady-hand-tool/
 | `SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
 | `Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
 | `Aligner.stl` | ✅ Published | Alignment jig used during assembly |
-| `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head, with a 45° cone on its underside (assembly guide, Step 11) |
-| `PlateSteadyHandTool.stl` | ✅ Published | Name plate (Step 12) |
-| `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Step 12) |
+| `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head, with a knurled band round its neck, a knurled rim and a plain curved flare under the rim (assembly guide, Step 11) |
+| `PlateSteadyHandTool.stl` | ✅ Published | Name plate (Optional Step 13) |
+| `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Optional Step 13) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
-| `MagnetPusherNBody.stl` and its two letters, `MagnetPusherSBody.stl` and its two letters, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and a tip sleeve for each: they seat each magnet with the right pole facing out ([magnet polarity standard](docs/magnet-polarity.md)) |
-| `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | ✅ Published | The two magnet coupons: print them first to check that your printer makes magnet seats that grip ([how to read them](docs/magnet-polarity.md#check-the-hole-size-on-your-printer-first)) |
+| `MagnetPusherNBody.stl` and its two letters, `MagnetPusherSBody.stl` and its two letters, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and a tip sleeve for each: they seat each magnet with the right pole facing out ([magnets guide](docs/magnets.md)) |
+| `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | ✅ Published | The two magnet coupons: print them first to check that your printer makes magnet seats that grip ([how to read them](docs/magnets.md#1-dial-in-your-printer-first-the-two-magnet-coupons)) |
+| `MagnetRigPuck.stl`, `MagnetRigPusher.stl`, `MagnetRigNoseCap.stl` | ✅ Published | The magnet rig: an optional guide for seating the base's tool-pocket magnets, not yet used on a printed base ([how to use it](docs/magnets.md#9-the-magnet-rig-the-bases-tool-pockets-guided)) |
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
-| Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 680 g (Step 1) |
+| Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 785 g (Step 1) |
 
 Quantities per tool are in the [assembly guide](docs/assembly-guide.md), not repeated here.
 
 **Every 3D model will be published when the campaign funds** — that is the commitment, and it is
-part of what backing it pays for. Until then the [BOM](BOM.md) and the
+part of what backing it pays for. Until then the [BOM](docs/BOM.md) and the
 [assembly guide](docs/assembly-guide.md) describe the carriage and the base, and the
-[magnet polarity standard](docs/magnet-polarity.md) is the full specification any tool head you
+[magnets guide](docs/magnets.md) is the full specification any tool head you
 design has to match — so designing one is something you can do today, not after the campaign.
 
 ---
@@ -140,9 +136,3 @@ This project is licensed under the [**CERN-OHL-S-2.0 License**](https://chooseal
 ## Trademarks
 
 The license above covers this repository’s hardware designs and documentation. It grants no rights to any trademark, trade name, or logo — including the Team Fox and Michael J. Fox Foundation marks, and halfmarble’s own.
-
----
-
-## Credits
-
-**Photography:** Hero images provided by [Crowd Supply](https://www.crowdsupply.com).

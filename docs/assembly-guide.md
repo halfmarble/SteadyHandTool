@@ -4,6 +4,8 @@ This assembly guide is based on the [Steady Hand Tool DIY Part 1](https://www.yo
 
 **Estimated Time:** 30 Minutes
 
+![Fig. 18, the complete tool: base and mast, horizontal cage with its rods and stop, vertical cage with its rod and stop, interface ring and tweezers head, with the steps that build them](illustrations/fig_18_whole.png)
+
 ---
 
 ## 🛠️ Required Tools
@@ -18,11 +20,7 @@ Every bolt and nut is M3. Before starting, sort the bolts into piles by length:
 These are the totals the steps below actually consume. Count them out before you start — it is
 much easier than discovering a shortfall at Step 12.
 
-| Fastener | Quantity | Where it goes |
-| :--- | ---: | :--- |
-| M3 x 8 | 8 | Step 12 |
-| M3 x 16 | 39 | Steps 1, 4, 6, 8, 9, 10, 11 |
-| M3 nuts | 41 | Steps 1, 4, 6, 8, 9, 10, 11, 12 |
+![Fig. 19, fasteners: M3 x 8 mm bolts (8), M3 x 16 mm bolts (39) and M3 nuts (41), with the steps that use them](illustrations/fig_19_fasteners.png)
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -30,56 +28,38 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 
 ## 🧩 Assembly Steps
 
-### Step 1: Weight the Base
+### Step 1: Base
 
 * **Parts:** 1x M3x16 bolt and 1x M3 nut, for the rod clamp inside the **BaseCup**. The printed
-  base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](../print.md)).
+  base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](print.md)).
   Push the vertical mast into the BaseCup's socket and tighten the clamp on it, then pour the shot
-  into the open BaseCup. Clear any shot off the clamp's top before you screw the BaseTop on. The
-  fill notes below describe the earlier one-piece base, filled through its ⌀8 socket; the shot
-  size and the weighing apply to both.
+  into the open BaseCup. Clear any shot off the clamp's top before you screw the BaseTop on.
 * **The mast is clamped in, and the BaseTop is off, while you weigh,** so weigh the mast and the
-  BaseTop on their own first: add the mast's weight to the 680 g target below, and take the
-  BaseTop's off it.
-* **Media: round steel shot, 1.5 - 2.0 mm, nominal 2.0 mm.** This is not a preference, and it is
-  bounded at both ends:
-  * **Nothing above 2.0 mm.** The shot enters through the central **⌀8 mm socket**, and that
-    socket, not anything inside the chamber, is the restriction that governs. Granular flow
-    arches when the opening drops below roughly four particle diameters. At 2.0 mm the socket is
-    four ball diameters wide and the shot flows; at 6.35 mm it is barely over one, the shot goes
-    in single file, and it bridges at the mouth leaving the outer chamber empty.
-  * **Nothing below 1.5 mm.** The chamber vents are ⌀1.5 mm. Anything finer runs back out of them.
-  * SAE **S-780** blasting shot and **#9 steel reloading shot** both sit in this window. If a
-    grade publishes a screen analysis, check its tail stays above 1.5 mm.
-* **Fill through the ⌀8 socket in the top of the base.** There is no cover — the
-  socket is the fill port, and the base is finished as soon as it is at weight. A funnel helps.
-* **Pour in stages, tapping or vibrating the base between them.** A settled fill reaches the
-  target comfortably; one unsettled pour lands at the bottom of the tolerance or below.
-* **Weigh the base. Do not measure out the shot.** The specification is **680 g ± 10 g for the
-  finished base**, and roughly **517 g** of shot gets there — but printed shell mass varies with
-  printer, material and infill, so the scale is the authority and 517 g is only indicative.
+  BaseTop on their own first: add the mast's weight to the 785 g target, and take the
+  BaseTop's off it (its 24 magnets seated).
+* **Media: round steel balls, 1/4 in (6.35 mm), as in the [BOM](BOM.md).**
 
-**Learn from our mistake instead of repeating it.** Our own first fill used 6.35 mm slingshot
-ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, and produced a
-**619 g base against a 680 g spec**. The chamber was never too small. The media was too big.
+![Fig. 13, base: mast clamp and fill](illustrations/fig_13_base.png)
 
 ### Step 2: Sorting Bolts
 * Sort the M3 bolts by length (8 and 16 mm) to avoid mistakes in later steps.
 
-### Step 3: Close the Base — *no longer required, skip it*
-* The video secures a base cover with **5x M4x16 bolts and 1x M4 nut**. **The base no
-  longer takes a bolted cover.**
+### Step 3: Close the Base
 * The printed base is filled in Step 1 and is finished once it is at
   weight. **Its only fastener is the rod clamp's M3x16 and nut (Step 1).**
-* The step number is kept so the guide still lines up with the video.
+* Screw the top lid to the base cup - you might need to remove some of the ballast if you added too much in **Step 1**.
+* See Fig. 13 under Step 1.
 
 ### Step 4: Prepare the Bearings
-* **Parts:** 14x M3x16 bolts and 14x M3 nuts.
-* **Assembly Order:** Thin spacer ➡️ Metal bearing ➡️ Fat spacer.
+* **Parts:** 14x M3x16 bolts. Their 14 M3 nuts go on in Steps 5 and 7.
+* **Assembly Order:** Bolt ➡️ Thin spacer ➡️ Metal bearing ➡️ Fat spacer. The nut goes on
+  after the set passes through the cage wall (Steps 5 and 7); see Fig. 14.
 * Repeat this for all 14 bearing sets.
 
+![Fig. 14, bearing set](illustrations/fig_14_bearing.png)
+
 ### Step 5: Horizontal Cage (Part A)
-* **Parts:** 8 prepared bearing sets.
+* **Parts:** 8 prepared bearing sets and 8x M3 nuts.
 * Insert the bearing sets into the horizontal cage housing.
 
 ### Step 6: Horizontal Cage (Part B)
@@ -90,7 +70,7 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
   M3x16 is a good size for the job.
 
 ### Step 7: Vertical Cage (Part A)
-* **Parts:** 6 prepared bearing sets.
+* **Parts:** 6 prepared bearing sets and 6x M3 nuts.
 * Assemble the bearing sets into the vertical cage components.
 
 ### Step 8: Vertical Cage (Part B)
@@ -111,18 +91,25 @@ ammo. It bridged at the socket, packed to 49% where a settled fill reaches 60%, 
 * **Parts:** 8x M3x16 bolts and 8x M3 nuts: 2 for each of the 4 rings.
 * Secure each of the four rings that interface with the tool heads.
 
+![Fig. 15, interface ring: clamp bolts](illustrations/fig_15_ring.png)
+
 ### Step 12: Tool Interface
 * **Parts:** 2x M3x8 bolts and 2x M3 nuts for each tweezers head: 8 of each for the four heads in
-  the [print list](../print.md). A vacuum-pen or template head takes none.
+  the [print list](print.md). A vacuum-pen or template head takes none.
 * Fit them to each tweezers head; they clamp the tweezers in the head's slot.
+
+![Fig. 16, tweezers head: clamp bolts](illustrations/fig_16_head.png)
 
 ### Optional Step 13: Branding
 * Install the **Steady Hand Tool** and **halfmarble** logo plates into their designated slots.
 
----
+![Fig. 17, name plate and logo plate](illustrations/fig_17_plates.png)
 
-**Next Step:** Watch Part 2 to learn how to install the magnets for the base and interface.
+### Step 14: Magnets
 
-> **Before you install any magnet, read the [Magnet Polarity Standard](magnet-polarity.md).** If you use the two magnet pushers, N and S, it says where to start: print and check them first.
-> Orientation cannot be read from a model file, and getting it wrong is what stops one
-> person's tool adapter from seating in another person's base.
+* *Before you install any magnet, read the [magnets guide](magnets.md).*
+* If you use the two magnet pushers, N and S, it says where to start (section 10): print and check them first.
+* Figs. 5 to 11 in the [magnets guide](magnets.md) show every magnet seat,
+  sectioned, with the pole each array presents; Figs. 3 and 4 show the two pushers.
+* Orientation cannot be read from a model file, and getting it wrong is what stops one
+person's tool adapter from seating in another person's base.

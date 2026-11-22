@@ -422,7 +422,7 @@ of this section. If it fails any part of it, seat the pockets with the N pusher 
 | :--- | :--- |
 | `MagnetRigPuck.stl` | Print flat, top face up. It is drawn ⌀26.90 for a pocket that prints ⌀27.2; step 9.1 fits it to yours |
 | `MagnetRigPusher.stl` | Print standing, hex handle on the bed. The pocket at the top of its ⌀5.6 stem prints open, with nothing to bridge |
-| `MagnetRigNoseCap.stl` | The cap: a flat ⌀5.6 × 0.6 mm plate. Print flat, glue face on the bed. It closes the pocket in the stem, and the magnet hangs on its face |
+| `MagnetRigCap.stl` | The cap: a flat ⌀5.6 × 0.6 mm plate. Print flat, glue face on the bed. It closes the pocket in the stem, and the magnet hangs on its face |
 | 6.0 mm drill bit | To open the puck's bore, turned by hand |
 | 2 magnets and 5-minute epoxy | The key in the pusher's stem: two more magnets on top of the kit's |
 | Compass | The reference for the key's pole, as in section 4 |

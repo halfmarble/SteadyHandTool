@@ -61,8 +61,7 @@ steady-hand-tool/
 │   └── models/
 │       ├── stl/            # Printable parts and tool-head adapters
 │       ├── 3rdParty/       # Adapters for third-party tools (PixelPump)
-│       ├── 3mf/            # Print plates — orientation and slicer settings, not geometry
-│       └── step/           # CAD-fidelity parts (being added part by part)
+│       └── 3mf/            # Print plates — orientation and slicer settings, not geometry
 ├── docs/
 │   ├── assembly-guide.md   # Step-by-step build instructions
 │   ├── BOM.md              # Bill of Materials (the "Shopping List")
@@ -87,14 +86,14 @@ steady-hand-tool/
 | `Spacer.stl` | ✅ Published | The "fat" spacer — ⌀10.8 body on a ⌀8 spigot. One per bearing set (14 sets) |
 | `SpacerSmall.stl` | ✅ Published | The "thin" spacer, same three diameters. One per bearing set |
 | `Stopper.stl` | ✅ Published | Split clamp collar for an 8 mm rod, M3 cross screw |
-| `Aligner.stl` | ✅ Published | Alignment jig used during assembly |
+| `Aligner.stl` | ✅ Published | Horizontal stop |
 | `InterfaceRing.stl` | ✅ Published | The ring that interfaces with the tool head, with a knurled band round its neck, a knurled rim and a plain curved flare under the rim (assembly guide, Step 11) |
 | `PlateSteadyHandTool.stl` | ✅ Published | Name plate (Optional Step 13) |
 | `PlateHalfLogoMarble.stl` | ✅ Published | Logo plate (Optional Step 13) |
 | `InterfaceTweezers.stl`, `InterfaceManualVacuumPen.stl`, `InterfaceTemplate.stl` | ✅ Published | Tool heads. `InterfaceTemplate` is the blank to start your own from |
 | `MagnetPusherNBody.stl` and its two letters, `MagnetPusherSBody.stl` and its two letters, `MagnetPusherSleeve.stl` | ✅ Published | The two magnet pushers, N and S, and a tip sleeve for each: they seat each magnet with the right pole facing out ([magnets guide](docs/magnets.md)) |
 | `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | ✅ Published | The two magnet coupons: print them first to check that your printer makes magnet seats that grip ([how to read them](docs/magnets.md#1-dial-in-your-printer-first-the-two-magnet-coupons)) |
-| `MagnetRigPuck.stl`, `MagnetRigPusher.stl`, `MagnetRigNoseCap.stl` | ✅ Published | The magnet rig: an optional guide for seating the base's tool-pocket magnets, not yet used on a printed base ([how to use it](docs/magnets.md#9-the-magnet-rig-the-bases-tool-pockets-guided)) |
+| `MagnetRigPuck.stl`, `MagnetRigPusher.stl`, `MagnetRigCap.stl` | ✅ Published | The magnet rig: an optional guide for seating the base's tool-pocket magnets, not yet used on a printed base ([how to use it](docs/magnets.md#9-the-magnet-rig-the-bases-tool-pockets-guided)) |
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
 | Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 785 g (Step 1) |

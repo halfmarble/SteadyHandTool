@@ -10,7 +10,7 @@ list for everything you cannot print.
 | `Spacer.stl` | The "fat" spacer, ⌀10.8 body on a ⌀8 spigot. One per bearing set |
 | `SpacerSmall.stl` | The "thin" spacer, same three diameters. One per bearing set |
 | `Stopper.stl` | Split clamp collar for an 8 mm rod, M3 cross screw |
-| `Aligner.stl` | Alignment jig used during assembly |
+| `Aligner.stl` | Horizontal stop |
 | `InterfaceRing.stl` | The ring the tool head couples to, with a knurled band round its neck, a knurled rim and a plain curved flare under the rim (Step 11) |
 | `PlateSteadyHandTool.stl` | Name plate (Optional Step 13) |
 | `PlateHalfLogoMarble.stl` | Logo plate (Optional Step 13) |
@@ -21,7 +21,7 @@ list for everything you cannot print.
 | `MagnetPusherSBody.stl`, `MagnetPusherSLetterFront.stl`, `MagnetPusherSLetterBack.stl` | The **S** magnet pusher: body and its two inlay letters (blue). Seats magnets south face out — tool heads, ring top faces |
 | `MagnetPusherSleeve.stl` | Sleeve for a pusher's tip: print two, one for each pusher. How to use them: the [magnets guide](../../../docs/magnets.md) |
 | `MagnetCouponMouthUp.stl`, `MagnetCouponMouthDown.stl` | The two magnet coupons: 25 magnet seats each, ⌀3.70 to ⌀4.18 mm, to check how your printer prints the ⌀4 seats before you print the parts. How to read them: the [magnets guide](../../../docs/magnets.md#1-dial-in-your-printer-first-the-two-magnet-coupons) |
-| `MagnetRigPuck.stl`, `MagnetRigPusher.stl`, `MagnetRigNoseCap.stl` | The magnet rig: a puck that sits in a base tool pocket, a pusher and its flat cap. An optional guide for seating the base's magnets, not yet used on a printed base. How to use it: the [magnet rig](../../../docs/magnets.md#9-the-magnet-rig-the-bases-tool-pockets-guided) |
+| `MagnetRigPuck.stl`, `MagnetRigPusher.stl`, `MagnetRigCap.stl` | The magnet rig: a puck that sits in a base tool pocket, a pusher and its flat cap. An optional guide for seating the base's magnets, not yet used on a printed base. How to use it: the [magnet rig](../../../docs/magnets.md#9-the-magnet-rig-the-bases-tool-pockets-guided) |
 
 Adapters for third-party tools are one level up, in [`3rdParty/`](../3rdParty). Print plates, which
 carry orientation and slicer settings rather than geometry, are in [`3mf/`](../3mf).

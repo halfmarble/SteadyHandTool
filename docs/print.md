@@ -4,14 +4,16 @@ Every 3D-printed part of one Steady Hand Tool, and how many copies to print. Fas
 rods, magnets and the base ballast are not printed: they are in the [BOM](BOM.md), and the
 fastener counts are in the [assembly guide](assembly-guide.md#-preparation-fasteners-sorting).
 
-![Fig. 20, print list: the 15 printed parts, with file name, quantity (50 in all) and whether each is published](illustrations/fig_20_partsheet_print.png)
+![Fig. 20, print list: the 18 printed parts, with file name, quantity (49 in all) and whether each is published](illustrations/fig_20_partsheet_print.png)
 
 - **Base.** Print the BaseCup and the BaseTop (assembly guide, Step 1 and Fig. 13). The
   ballast, 1/4 in steel balls filled by weight, is in the BOM.
 - **Spacers.** One fat and one thin spacer per bearing set, 14 sets.
-- **Tool heads.** Four, one for each pocket in the base. Any of them can be
-  `InterfaceManualVacuumPen.stl` instead, or a head of your own made from `InterfaceTemplate.stl`.
+- **Tool heads.** Two: one tweezers head and one vacuum-pen head. The base's four pockets hold
+  whichever is not on the ring. A head of your own can be made from `InterfaceTemplate.stl`.
   Every head has to follow the [magnets guide](magnets.md).
+- **Interface ring.** One. It stays on the tool; the heads come off it.
+- **Weight cups.** Two, each with its screw-on lid.
 - **Optional.** The adapter for the third-party PixelPump pen in `hardware/models/3rdParty/` is
   not counted above.
 - **On funding** parts are not in this repository yet. Every 3D model is published when the

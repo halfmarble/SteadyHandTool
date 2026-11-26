@@ -97,6 +97,7 @@ steady-hand-tool/
 | Horizontal cage | ⏳ On funding | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | ⏳ On funding | Steps 7–8 |
 | Base — printed cup and screw-in top | ⏳ On funding | Filled with steel shot to 785 g (Step 1) |
+| Weight cup and its screw-on lid, two of each | ⏳ On funding | [Print list](docs/print.md) |
 
 Quantities per tool are in the [assembly guide](docs/assembly-guide.md), not repeated here.
 

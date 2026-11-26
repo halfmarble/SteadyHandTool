@@ -20,7 +20,7 @@ Every bolt and nut is M3. Before starting, sort the bolts into piles by length:
 These are the totals the steps below actually consume. Count them out before you start — it is
 much easier than discovering a shortfall at Step 12.
 
-![Fig. 19, fasteners: M3 x 8 mm bolts (8), M3 x 16 mm bolts (39) and M3 nuts (41), with the steps that use them](illustrations/fig_19_fasteners.png)
+![Fig. 19, fasteners: M3 x 8 mm bolts (2), M3 x 16 mm bolts (33) and M3 nuts (29), with the steps that use them](illustrations/fig_19_fasteners.png)
 
 Buy a couple of spares of each. They are small, they cost cents, and one will find the floor.
 
@@ -88,15 +88,15 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 * Install the stop onto the vertical rod to limit the tool's travel.
 
 ### Step 11: Interface Ring
-* **Parts:** 8x M3x16 bolts and 8x M3 nuts: 2 for each of the 4 rings.
-* Secure each of the four rings that interface with the tool heads.
+* **Parts:** 2x M3x16 bolts and 2x M3 nuts.
+* Secure the ring that the tool heads couple to. It stays on the tool: the heads come off it, the ring does not.
 
 ![Fig. 15, interface ring: clamp bolts](illustrations/fig_15_ring.png)
 
 ### Step 12: Tool Interface
-* **Parts:** 2x M3x8 bolts and 2x M3 nuts for each tweezers head: 8 of each for the four heads in
-  the [print list](print.md). A vacuum-pen or template head takes none.
-* Fit them to each tweezers head; they clamp the tweezers in the head's slot.
+* **Parts:** 2x M3x8 bolts and 2x M3 nuts for the tweezers head in the [print list](print.md).
+  The vacuum-pen head, or a template head, takes none.
+* Fit them to the tweezers head; they clamp the tweezers in the head's slot.
 
 ![Fig. 16, tweezers head: clamp bolts](illustrations/fig_16_head.png)
 

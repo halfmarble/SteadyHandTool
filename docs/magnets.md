@@ -6,7 +6,7 @@ This document starts with the first, because nothing after it works on a seat th
 tight or too loose, and then fixes the second. It holds:
 
 - how to dial in your printer with the two magnet coupons (section 1),
-- the polarity rule, the bench process that puts all 102 magnets of a kit in with the same
+- the polarity rule, the bench process that puts all 78 magnets of a kit in with the same
   polarity, and an optional guide for the base's tool pockets (the magnet rig).
 
 **Where to start.** Print the two coupons and dial in your printer (section 1). For one part, then
@@ -148,14 +148,17 @@ it presents S either way. Rule of thumb: **fixed side → N pusher, removable si
 | Array | Magnets per part | Per kit | Pole it presents | Pattern | Pusher | Drawing |
 | :--- | :---: | :---: | :---: | :--- | :--- | :---: |
 | Base, each of the four tool pockets | 6 | 4 × 6 = 24 | **N** (up) | ⌀18 mm bolt circle, 60° apart | N (red) | [Fig. 5](illustrations/fig_5_base_top.png) |
-| Tool head (tweezers, vacuum pen, or one of your own) | 6 | 4 × 6 = 24 | **S** | ⌀18 mm bolt circle, 60° apart | S (blue) | [Figs. 6-8](illustrations/fig_6_head_tweezers.png) |
-| Interface ring, bottom face | 6 | 4 × 6 = 24 | **N** (down) | ⌀18 mm bolt circle, 60° apart | N (red) | [Fig. 9](illustrations/fig_9_ring_bottom.png) |
-| Interface ring, top face | 6 | 4 × 6 = 24 | **S** (up) | ⌀18 mm bolt circle, 60° apart | S (blue) | [Fig. 10](illustrations/fig_10_ring_top.png) |
+| Tool head (tweezers and vacuum pen) | 6 | 2 × 6 = 12 | **S** | ⌀18 mm bolt circle, 60° apart | S (blue) | [Figs. 6-8](illustrations/fig_6_head_tweezers.png) |
+| Interface ring, bottom face | 6 | 1 × 6 = 6 | **N** (down) | ⌀18 mm bolt circle, 60° apart | N (red) | [Fig. 9](illustrations/fig_9_ring_bottom.png) |
+| Interface ring, top face | 6 | 1 × 6 = 6 | **S** (up) | ⌀18 mm bolt circle, 60° apart | S (blue) | [Fig. 10](illustrations/fig_10_ring_top.png) |
 | Vertical cage dock | 6 | 1 × 6 = 6 | **N** (down) | ⌀18 mm bolt circle, 60° apart | N (red) | [Fig. 11](illustrations/fig_11_dock.png) |
-| | | **102** | | | | |
+| | | **54** | | | | |
 
-The magnets are ⌀4 × 2 mm neodymium throughout. One tool takes 102: 24 in the base, 24 in four
-tool heads, 48 in four interface rings and 6 in the vertical cage (the [BOM](BOM.md)).
+The magnets are ⌀4 × 2 mm neodymium throughout. The arrays above take 54: 24 in the base, 12 in the two
+tool heads, 12 in the interface ring and 6 in the vertical cage. The aligner, the stopper and the two
+weight cups take six each, 24 more, so one tool takes 78 (the [BOM](BOM.md)). The published aligner
+and stopper have no seats yet: their seated versions and the weight cups come with the next release,
+and this guide will add their arrays then.
 
 ![Fig. 2, the arrays and one seat](illustrations/fig_2_seat.png)
 
@@ -230,8 +233,8 @@ That leaves three ways to get the polarity wrong, and this document closes each 
    little small. If the magnets do not go in, clear the hole with a 4.0 mm drill turned by hand,
    only down to the bottom of the hole: the outer magnet's face must end up level with the tip's
    face. Let two magnets snap together into a short stack, put a drop of glue in the pocket and
-   press the stack in. The four tip magnets come from the spares: the [BOM](BOM.md) lists 120
-   magnets for the 102 seats.
+   press the stack in. The four tip magnets come from the spares: the [BOM](BOM.md) lists 90
+   magnets for the 78 seats.
 3. **Check its pole with a compass before the glue sets.** First make sure the compass points
    north when nothing magnetic is near. Then bring the tip in slowly from the side of the needle,
    from about 10 cm away, and stop as soon as the needle moves. **The N pusher's tip must pull
@@ -358,8 +361,8 @@ them while the top is screwed on. If one goes in the wrong way, stop, and do not
 the face: with the top unscrewed and the shot cleared from its underside, try pushing it out
 through its air-relief hole with a pin.
 
-**Whole-kit check, last:** every tool head into every base pocket (16 pairs) and onto every ring
-(16 pairs), and every ring onto the dock (4 pairs): each must snap flat at any rotation.
+**Whole-kit check, last:** each of the two tool heads into every base pocket (8 pairs) and onto the
+ring (2 pairs), and the ring onto the dock (1 pair): each must snap flat at any rotation.
 
 ## 8. The drawings
 

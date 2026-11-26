@@ -26,15 +26,16 @@ list for everything you cannot print.
 Adapters for third-party tools are one level up, in [`3rdParty/`](../3rdParty). Print plates, which
 carry orientation and slicer settings rather than geometry, are in [`3mf/`](../3mf).
 
-## Not in this folder yet: the carriage and the base
+## Not in this folder yet: the carriage, the base and the weight cups
 
-Six printable parts are still to come, so you will not find them here:
+Eight printable parts are still to come, so you will not find them here:
 
 | Part | Where it is used |
 | :--- | :--- |
 | Horizontal cage | Assembly guide, Steps 5–6 |
 | Vertical cage — three parts | Steps 7–8 |
 | Base — the printed cup and screw-in top, filled with steel shot to 785 g | Step 1 |
+| Weight cup and its screw-on lid, two of each | [Print list](../../../docs/print.md) |
 
 **Every 3D model will be published when the campaign funds** — that is the commitment, and it is
 part of what backing it pays for.

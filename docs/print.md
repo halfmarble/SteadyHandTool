@@ -7,7 +7,7 @@ fastener counts are in the [assembly guide](assembly-guide.md#-preparation-faste
 ![Fig. 20, print list: the 18 printed parts, with file name, quantity (49 in all) and whether each is published](illustrations/fig_20_partsheet_print.png)
 
 - **Base.** Print the BaseCup and the BaseTop (assembly guide, Step 1 and Fig. 13). The
-  ballast, 1/4 in steel balls filled by weight, is in the BOM.
+  ballast, 1/4 in steel balls or about 2 mm cast steel shot, filled by weight, is in the BOM.
 - **Spacers.** One fat and one thin spacer per bearing set, 14 sets.
 - **Tool heads.** Two: one tweezers head and one vacuum-pen head. The base's four pockets hold
   whichever is not on the ring. A head of your own can be made from `InterfaceTemplate.stl`.

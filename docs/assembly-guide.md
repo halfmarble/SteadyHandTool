@@ -33,11 +33,13 @@ Buy a couple of spares of each. They are small, they cost cents, and one will fi
 * **Parts:** 1x M3x16 bolt and 1x M3 nut, for the rod clamp inside the **BaseCup**. The printed
   base is two parts, the BaseCup and the screw-in **BaseTop** (see the [print list](print.md)).
   Push the vertical mast into the BaseCup's socket and tighten the clamp on it, then pour the shot
-  into the open BaseCup. Clear any shot off the clamp's top before you screw the BaseTop on.
+  into the open BaseCup. Clear any shot off the clamp's top and the BaseCup's thread before you
+  screw the BaseTop on.
 * **The mast is clamped in, and the BaseTop is off, while you weigh,** so weigh the mast and the
   BaseTop on their own first: add the mast's weight to the 785 g target, and take the
   BaseTop's off it (its 24 magnets seated).
-* **Media: round steel balls, 1/4 in (6.35 mm), as in the [BOM](BOM.md).**
+* **Media: round steel balls, 1/4 in (6.35 mm), or cast steel shot of about 2 mm, both in the
+  [BOM](BOM.md). Fill by weight either way.**
 
 ![Fig. 13, base: mast clamp and fill](illustrations/fig_13_base.png)
 

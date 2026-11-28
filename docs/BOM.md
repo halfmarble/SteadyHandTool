@@ -19,6 +19,7 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | <img src="images/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://www.amazon.com/dp/B075CM2XNJ) | 8 x 12 x 3.5mm | Frictionless carriage movement. **14 required** |
 | <img src="images/magnets.jpg" width="100"> | [**Magnets**](https://www.amazon.com/dp/B08NZS7WBK) | 4mm x 2mm Neodymium | Magnetic tool coupler interface. **Orientation matters** — see the [magnets guide](magnets.md). **78 required**, buy at least 90 |
 | <img src="images/weights.jpg" width="100"> | [**Steel balls**](https://www.amazon.com/dp/B00JZ18B1A) | 1/4 inch | Round steel shot, about **660 g** per base: fills the printed base to **785 g** with its 24 magnets seated. |
+| <img src="images/cast-steel-shot.jpg" width="100"> | [**Cast steel shot**](https://www.amazon.com/dp/B09G3LBN26) | S-780, about 2 mm | Option, in place of the steel balls: about **660 g** per base, filled by weight to **785 g** with its 24 magnets seated. |
 
 **Magnet count, broken down:** 24 in the base (four tool pockets, six each), 12 in the two tool
 heads (tweezers and vacuum pen, six each), 12 in the interface ring (six on the bottom face and six

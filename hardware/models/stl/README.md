@@ -45,7 +45,7 @@ They are documented in the meantime, so the design is not a black box while you 
 - the [assembly guide](../../../docs/assembly-guide.md) shows how the carriage and the base go
   together, in the order you would build them;
 - the [BOM](../../../docs/BOM.md) lists what goes inside them — including the ballast, 1/4 in steel
-  balls filled by weight;
+  balls or about 2 mm cast steel shot, filled by weight;
 - the [magnets guide](../../../docs/magnets.md) is the whole specification a
   tool head has to match. Nothing about it waits on the campaign, so a tool head of your own
   design is something you can build today, with `InterfaceTemplate.stl` as the starting blank.

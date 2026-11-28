@@ -25,7 +25,7 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Near-Zero Friction:** Equipped with **14 high-quality metal bearings** and carbon fiber rods for smooth, silent, and effortless operation.
 * **Modular Magnetic Coupler:** Features a quick-swap magnetic system for changing tool heads (tweezers, vacuum tips, etc.) in seconds.
 * **Purely Mechanical:** No power required, no cables, and no noise. It's always ready to work when you are.
-* **Heavy-Duty Base:** A weighted **785g (1.7 lb)** base ensures the arm remains stable even at full extension.
+* **Heavy-Duty Base:** A weighted **785g (1.7 lb)** base keeps the arm upright at full extension with a tool head fitted. With the weight cup on the vertical stop (even empty), or when you press down on the tool, draw the arm in from full extension first.
 * **Open Source:** Designed to be hacked and customized. Create your own tool heads to suit your specific workflow.
 
 ## 🚀 Get Yours

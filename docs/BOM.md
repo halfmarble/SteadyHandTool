@@ -74,4 +74,5 @@ printed parts are in the [print list](print.md).
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
 | <img src="images/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://www.amazon.com/dp/B07V8SLF2T) | Reverse action (self-closing) — squeeze to open | Holding SMD parts during placement |
+| <img src="images/vacuum-pen.jpg" width="100"> | [**Manual Vacuum Pen**](https://www.amazon.com/dp/B0BKSL9CHZ) | Manual suction pen with straight and bent tips and suction cups | Picking up SMD parts; used with the vacuum-pen tool head |
 | <img src="images/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://www.amazon.com/dp/B0021O1A1G) | Metric Allen Key Set | Recommended for assembly |

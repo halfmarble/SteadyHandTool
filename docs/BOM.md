@@ -30,7 +30,7 @@ cups (six each) — 78 in total. Buy 90; they are small, and one will find the f
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="images/hardware-m3.jpg" width="100"> | [**M3 Hardware**](https://www.amazon.com/dp/B0F4XNN1T3) | Stainless steel. 33 x M3 16mm, 2 x M3 8mm, and 29 M3 nuts | Structural assembly of the arm and the base's rod clamp |
+| <img src="images/fasteners.jpg" width="100"> | [**M3 Hardware**](https://www.amazon.com/dp/B0GZVTMPPP) | Socket head, 12.9 alloy steel, black oxide. Needed: 33 x M3 16mm, 2 x M3 8mm, and 29 M3 nuts. The kit holds 30 x M3 16mm: **buy at least 5 more M3 16mm** | Structural assembly of the arm and the base's rod clamp |
 
 Buy a few spares of each size. **One M3x16 and its nut go into the base**, where they close the
 clamp on the vertical mast; every other one goes into the arm. The step-by-step breakdown is in the
